@@ -1,0 +1,897 @@
+2020-06-19 08:52:03,475 : INFO : __main__ : Use device: cuda
+2020-06-19 08:57:06,346 : INFO : __main__ : Episode:      1, interaction_steps:   2048, reward: 12, epsilon: 0.998054
+2020-06-19 08:57:06,372 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 08:58:15,197 : INFO : __main__ : Evaluation: True, episode:      1, interaction_steps:   2048, evaluate reward:  0
+2020-06-19 08:58:18,608 : INFO : __main__ : Episode:      2, interaction_steps:   4096, reward: 12, epsilon: 0.996109
+2020-06-19 08:58:22,052 : INFO : __main__ : Episode:      3, interaction_steps:   6144, reward: 11, epsilon: 0.994163
+2020-06-19 08:58:25,511 : INFO : __main__ : Episode:      4, interaction_steps:   8192, reward: 13, epsilon: 0.992218
+2020-06-19 08:58:28,948 : INFO : __main__ : Episode:      5, interaction_steps:  10240, reward: 11, epsilon: 0.990272
+2020-06-19 08:58:32,470 : INFO : __main__ : Episode:      6, interaction_steps:  12288, reward: 12, epsilon: 0.988326
+2020-06-19 08:58:36,045 : INFO : __main__ : Episode:      7, interaction_steps:  14336, reward: 13, epsilon: 0.986381
+2020-06-19 08:58:39,590 : INFO : __main__ : Episode:      8, interaction_steps:  16384, reward: 12, epsilon: 0.984435
+2020-06-19 08:58:43,139 : INFO : __main__ : Episode:      9, interaction_steps:  18432, reward: 16, epsilon: 0.982490
+2020-06-19 08:58:46,704 : INFO : __main__ : Episode:     10, interaction_steps:  20480, reward: 10, epsilon: 0.980544
+2020-06-19 08:58:50,344 : INFO : __main__ : Episode:     11, interaction_steps:  22528, reward: 13, epsilon: 0.978598
+2020-06-19 08:59:58,839 : INFO : __main__ : Evaluation: True, episode:     11, interaction_steps:  22528, evaluate reward:  0
+2020-06-19 09:00:02,339 : INFO : __main__ : Episode:     12, interaction_steps:  24576, reward: 11, epsilon: 0.976653
+2020-06-19 09:00:05,857 : INFO : __main__ : Episode:     13, interaction_steps:  26624, reward: 13, epsilon: 0.974707
+2020-06-19 09:00:09,395 : INFO : __main__ : Episode:     14, interaction_steps:  28672, reward: 13, epsilon: 0.972762
+2020-06-19 09:00:12,942 : INFO : __main__ : Episode:     15, interaction_steps:  30720, reward: 14, epsilon: 0.970816
+2020-06-19 09:00:16,475 : INFO : __main__ : Episode:     16, interaction_steps:  32768, reward: 12, epsilon: 0.968870
+2020-06-19 09:00:19,961 : INFO : __main__ : Episode:     17, interaction_steps:  34816, reward: 12, epsilon: 0.966925
+2020-06-19 09:00:23,487 : INFO : __main__ : Episode:     18, interaction_steps:  36864, reward: 13, epsilon: 0.964979
+2020-06-19 09:00:26,978 : INFO : __main__ : Episode:     19, interaction_steps:  38912, reward: 10, epsilon: 0.963034
+2020-06-19 09:00:30,475 : INFO : __main__ : Episode:     20, interaction_steps:  40960, reward: 10, epsilon: 0.961088
+2020-06-19 09:00:34,021 : INFO : __main__ : Episode:     21, interaction_steps:  43008, reward: 14, epsilon: 0.959142
+2020-06-19 09:01:43,527 : INFO : __main__ : Evaluation: True, episode:     21, interaction_steps:  43008, evaluate reward:  0
+2020-06-19 09:01:47,103 : INFO : __main__ : Episode:     22, interaction_steps:  45056, reward: 15, epsilon: 0.957197
+2020-06-19 09:01:50,663 : INFO : __main__ : Episode:     23, interaction_steps:  47104, reward: 13, epsilon: 0.955251
+2020-06-19 09:01:54,215 : INFO : __main__ : Episode:     24, interaction_steps:  49152, reward: 12, epsilon: 0.953306
+2020-06-19 09:02:05,877 : INFO : __main__ : Episode:     25, interaction_steps:  51200, reward: 13, epsilon: 0.951360
+2020-06-19 09:02:23,088 : INFO : __main__ : Episode:     26, interaction_steps:  53248, reward: 12, epsilon: 0.949414
+2020-06-19 09:02:40,137 : INFO : __main__ : Episode:     27, interaction_steps:  55296, reward: 12, epsilon: 0.947469
+2020-06-19 09:02:57,195 : INFO : __main__ : Episode:     28, interaction_steps:  57344, reward: 12, epsilon: 0.945523
+2020-06-19 09:03:14,225 : INFO : __main__ : Episode:     29, interaction_steps:  59392, reward: 11, epsilon: 0.943578
+2020-06-19 09:03:31,234 : INFO : __main__ : Episode:     30, interaction_steps:  61440, reward: 12, epsilon: 0.941632
+2020-06-19 09:03:48,344 : INFO : __main__ : Episode:     31, interaction_steps:  63488, reward: 13, epsilon: 0.939686
+2020-06-19 09:04:58,923 : INFO : __main__ : Evaluation: True, episode:     31, interaction_steps:  63488, evaluate reward:  0
+2020-06-19 09:05:15,856 : INFO : __main__ : Episode:     32, interaction_steps:  65536, reward: 11, epsilon: 0.937741
+2020-06-19 09:05:32,902 : INFO : __main__ : Episode:     33, interaction_steps:  67584, reward: 13, epsilon: 0.935795
+2020-06-19 09:05:49,937 : INFO : __main__ : Episode:     34, interaction_steps:  69632, reward: 10, epsilon: 0.933850
+2020-06-19 09:06:07,171 : INFO : __main__ : Episode:     35, interaction_steps:  71680, reward: 13, epsilon: 0.931904
+2020-06-19 09:06:24,293 : INFO : __main__ : Episode:     36, interaction_steps:  73728, reward: 12, epsilon: 0.929958
+2020-06-19 09:06:41,486 : INFO : __main__ : Episode:     37, interaction_steps:  75776, reward: 13, epsilon: 0.928013
+2020-06-19 09:06:58,683 : INFO : __main__ : Episode:     38, interaction_steps:  77824, reward:  9, epsilon: 0.926067
+2020-06-19 09:07:15,885 : INFO : __main__ : Episode:     39, interaction_steps:  79872, reward:  9, epsilon: 0.924122
+2020-06-19 09:07:33,265 : INFO : __main__ : Episode:     40, interaction_steps:  81920, reward: 11, epsilon: 0.922176
+2020-06-19 09:07:50,408 : INFO : __main__ : Episode:     41, interaction_steps:  83968, reward: 14, epsilon: 0.920230
+2020-06-19 09:09:00,617 : INFO : __main__ : Evaluation: True, episode:     41, interaction_steps:  83968, evaluate reward:  0
+2020-06-19 09:09:17,601 : INFO : __main__ : Episode:     42, interaction_steps:  86016, reward: 13, epsilon: 0.918285
+2020-06-19 09:09:34,627 : INFO : __main__ : Episode:     43, interaction_steps:  88064, reward:  9, epsilon: 0.916339
+2020-06-19 09:09:51,573 : INFO : __main__ : Episode:     44, interaction_steps:  90112, reward: 12, epsilon: 0.914394
+2020-06-19 09:10:08,659 : INFO : __main__ : Episode:     45, interaction_steps:  92160, reward: 10, epsilon: 0.912448
+2020-06-19 09:10:25,725 : INFO : __main__ : Episode:     46, interaction_steps:  94208, reward:  9, epsilon: 0.910502
+2020-06-19 09:10:42,884 : INFO : __main__ : Episode:     47, interaction_steps:  96256, reward: 12, epsilon: 0.908557
+2020-06-19 09:11:00,117 : INFO : __main__ : Episode:     48, interaction_steps:  98304, reward:  9, epsilon: 0.906611
+2020-06-19 09:11:17,341 : INFO : __main__ : Episode:     49, interaction_steps: 100352, reward: 13, epsilon: 0.904666
+2020-06-19 09:11:34,522 : INFO : __main__ : Episode:     50, interaction_steps: 102400, reward: 10, epsilon: 0.902720
+2020-06-19 09:11:51,675 : INFO : __main__ : Episode:     51, interaction_steps: 104448, reward: 11, epsilon: 0.900774
+2020-06-19 09:11:51,699 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 09:13:02,575 : INFO : __main__ : Evaluation: True, episode:     51, interaction_steps: 104448, evaluate reward:  0
+2020-06-19 09:13:19,552 : INFO : __main__ : Episode:     52, interaction_steps: 106496, reward: 11, epsilon: 0.898829
+2020-06-19 09:13:36,533 : INFO : __main__ : Episode:     53, interaction_steps: 108544, reward: 12, epsilon: 0.896883
+2020-06-19 09:13:53,622 : INFO : __main__ : Episode:     54, interaction_steps: 110592, reward: 11, epsilon: 0.894938
+2020-06-19 09:14:10,948 : INFO : __main__ : Episode:     55, interaction_steps: 112640, reward: 13, epsilon: 0.892992
+2020-06-19 09:14:28,202 : INFO : __main__ : Episode:     56, interaction_steps: 114688, reward: 12, epsilon: 0.891046
+2020-06-19 09:14:45,391 : INFO : __main__ : Episode:     57, interaction_steps: 116736, reward: 12, epsilon: 0.889101
+2020-06-19 09:15:02,644 : INFO : __main__ : Episode:     58, interaction_steps: 118784, reward: 12, epsilon: 0.887155
+2020-06-19 09:15:19,898 : INFO : __main__ : Episode:     59, interaction_steps: 120832, reward: 11, epsilon: 0.885210
+2020-06-19 09:15:37,132 : INFO : __main__ : Episode:     60, interaction_steps: 122880, reward: 11, epsilon: 0.883264
+2020-06-19 09:15:54,389 : INFO : __main__ : Episode:     61, interaction_steps: 124928, reward: 11, epsilon: 0.881318
+2020-06-19 09:17:03,225 : INFO : __main__ : Evaluation: True, episode:     61, interaction_steps: 124928, evaluate reward:  0
+2020-06-19 09:17:20,448 : INFO : __main__ : Episode:     62, interaction_steps: 126976, reward: 13, epsilon: 0.879373
+2020-06-19 09:17:37,802 : INFO : __main__ : Episode:     63, interaction_steps: 129024, reward: 12, epsilon: 0.877427
+2020-06-19 09:17:55,099 : INFO : __main__ : Episode:     64, interaction_steps: 131072, reward: 11, epsilon: 0.875482
+2020-06-19 09:18:12,138 : INFO : __main__ : Episode:     65, interaction_steps: 133120, reward: 11, epsilon: 0.873536
+2020-06-19 09:18:29,179 : INFO : __main__ : Episode:     66, interaction_steps: 135168, reward: 11, epsilon: 0.871590
+2020-06-19 09:18:46,323 : INFO : __main__ : Episode:     67, interaction_steps: 137216, reward: 12, epsilon: 0.869645
+2020-06-19 09:19:03,588 : INFO : __main__ : Episode:     68, interaction_steps: 139264, reward: 11, epsilon: 0.867699
+2020-06-19 09:19:20,833 : INFO : __main__ : Episode:     69, interaction_steps: 141312, reward: 10, epsilon: 0.865754
+2020-06-19 09:19:37,999 : INFO : __main__ : Episode:     70, interaction_steps: 143360, reward: 10, epsilon: 0.863808
+2020-06-19 09:19:55,153 : INFO : __main__ : Episode:     71, interaction_steps: 145408, reward: 10, epsilon: 0.861862
+2020-06-19 09:21:03,711 : INFO : __main__ : Evaluation: True, episode:     71, interaction_steps: 145408, evaluate reward:  0
+2020-06-19 09:21:20,906 : INFO : __main__ : Episode:     72, interaction_steps: 147456, reward: 10, epsilon: 0.859917
+2020-06-19 09:21:38,012 : INFO : __main__ : Episode:     73, interaction_steps: 149504, reward:  9, epsilon: 0.857971
+2020-06-19 09:21:55,113 : INFO : __main__ : Episode:     74, interaction_steps: 151552, reward: 14, epsilon: 0.856026
+2020-06-19 09:22:12,226 : INFO : __main__ : Episode:     75, interaction_steps: 153600, reward: 12, epsilon: 0.854080
+2020-06-19 09:22:29,371 : INFO : __main__ : Episode:     76, interaction_steps: 155648, reward: 11, epsilon: 0.852134
+2020-06-19 09:22:46,623 : INFO : __main__ : Episode:     77, interaction_steps: 157696, reward:  7, epsilon: 0.850189
+2020-06-19 09:23:04,006 : INFO : __main__ : Episode:     78, interaction_steps: 159744, reward: 12, epsilon: 0.848243
+2020-06-19 09:23:21,190 : INFO : __main__ : Episode:     79, interaction_steps: 161792, reward: 11, epsilon: 0.846298
+2020-06-19 09:23:38,381 : INFO : __main__ : Episode:     80, interaction_steps: 163840, reward: 10, epsilon: 0.844352
+2020-06-19 09:23:55,565 : INFO : __main__ : Episode:     81, interaction_steps: 165888, reward: 11, epsilon: 0.842406
+2020-06-19 09:25:03,934 : INFO : __main__ : Evaluation: True, episode:     81, interaction_steps: 165888, evaluate reward:  0
+2020-06-19 09:25:20,882 : INFO : __main__ : Episode:     82, interaction_steps: 167936, reward: 10, epsilon: 0.840461
+2020-06-19 09:25:37,881 : INFO : __main__ : Episode:     83, interaction_steps: 169984, reward: 12, epsilon: 0.838515
+2020-06-19 09:25:54,836 : INFO : __main__ : Episode:     84, interaction_steps: 172032, reward:  9, epsilon: 0.836570
+2020-06-19 09:26:11,843 : INFO : __main__ : Episode:     85, interaction_steps: 174080, reward: 12, epsilon: 0.834624
+2020-06-19 09:26:28,937 : INFO : __main__ : Episode:     86, interaction_steps: 176128, reward: 10, epsilon: 0.832678
+2020-06-19 09:26:46,025 : INFO : __main__ : Episode:     87, interaction_steps: 178176, reward: 11, epsilon: 0.830733
+2020-06-19 09:27:03,201 : INFO : __main__ : Episode:     88, interaction_steps: 180224, reward: 10, epsilon: 0.828787
+2020-06-19 09:27:20,339 : INFO : __main__ : Episode:     89, interaction_steps: 182272, reward:  9, epsilon: 0.826842
+2020-06-19 09:27:37,478 : INFO : __main__ : Episode:     90, interaction_steps: 184320, reward: 11, epsilon: 0.824896
+2020-06-19 09:27:54,771 : INFO : __main__ : Episode:     91, interaction_steps: 186368, reward:  8, epsilon: 0.822950
+2020-06-19 09:29:04,014 : INFO : __main__ : Evaluation: True, episode:     91, interaction_steps: 186368, evaluate reward:  0
+2020-06-19 09:29:20,996 : INFO : __main__ : Episode:     92, interaction_steps: 188416, reward:  9, epsilon: 0.821005
+2020-06-19 09:29:37,994 : INFO : __main__ : Episode:     93, interaction_steps: 190464, reward: 12, epsilon: 0.819059
+2020-06-19 09:29:54,988 : INFO : __main__ : Episode:     94, interaction_steps: 192512, reward:  9, epsilon: 0.817114
+2020-06-19 09:30:12,078 : INFO : __main__ : Episode:     95, interaction_steps: 194560, reward:  9, epsilon: 0.815168
+2020-06-19 09:30:29,206 : INFO : __main__ : Episode:     96, interaction_steps: 196608, reward: 12, epsilon: 0.813222
+2020-06-19 09:30:46,291 : INFO : __main__ : Episode:     97, interaction_steps: 198656, reward: 12, epsilon: 0.811277
+2020-06-19 09:31:03,582 : INFO : __main__ : Episode:     98, interaction_steps: 200704, reward: 10, epsilon: 0.809331
+2020-06-19 09:31:21,000 : INFO : __main__ : Episode:     99, interaction_steps: 202752, reward: 10, epsilon: 0.807386
+2020-06-19 09:31:38,282 : INFO : __main__ : Episode:    100, interaction_steps: 204800, reward: 12, epsilon: 0.805440
+2020-06-19 09:31:55,498 : INFO : __main__ : Episode:    101, interaction_steps: 206848, reward:  9, epsilon: 0.803494
+2020-06-19 09:31:55,525 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 09:33:05,044 : INFO : __main__ : Evaluation: True, episode:    101, interaction_steps: 206848, evaluate reward:  0
+2020-06-19 09:33:22,445 : INFO : __main__ : Episode:    102, interaction_steps: 208896, reward:  9, epsilon: 0.801549
+2020-06-19 09:33:39,891 : INFO : __main__ : Episode:    103, interaction_steps: 210944, reward: 10, epsilon: 0.799603
+2020-06-19 09:33:57,294 : INFO : __main__ : Episode:    104, interaction_steps: 212992, reward: 11, epsilon: 0.797658
+2020-06-19 09:34:14,633 : INFO : __main__ : Episode:    105, interaction_steps: 215040, reward: 12, epsilon: 0.795712
+2020-06-19 09:34:31,888 : INFO : __main__ : Episode:    106, interaction_steps: 217088, reward:  6, epsilon: 0.793766
+2020-06-19 09:34:49,179 : INFO : __main__ : Episode:    107, interaction_steps: 219136, reward: 12, epsilon: 0.791821
+2020-06-19 09:35:06,596 : INFO : __main__ : Episode:    108, interaction_steps: 221184, reward: 10, epsilon: 0.789875
+2020-06-19 09:35:23,977 : INFO : __main__ : Episode:    109, interaction_steps: 223232, reward: 10, epsilon: 0.787930
+2020-06-19 09:35:41,318 : INFO : __main__ : Episode:    110, interaction_steps: 225280, reward:  9, epsilon: 0.785984
+2020-06-19 09:35:58,654 : INFO : __main__ : Episode:    111, interaction_steps: 227328, reward:  9, epsilon: 0.784038
+2020-06-19 09:37:07,987 : INFO : __main__ : Evaluation: True, episode:    111, interaction_steps: 227328, evaluate reward:  0
+2020-06-19 09:37:25,075 : INFO : __main__ : Episode:    112, interaction_steps: 229376, reward:  9, epsilon: 0.782093
+2020-06-19 09:37:42,188 : INFO : __main__ : Episode:    113, interaction_steps: 231424, reward: 10, epsilon: 0.780147
+2020-06-19 09:37:59,378 : INFO : __main__ : Episode:    114, interaction_steps: 233472, reward: 11, epsilon: 0.778202
+2020-06-19 09:38:16,562 : INFO : __main__ : Episode:    115, interaction_steps: 235520, reward: 11, epsilon: 0.776256
+2020-06-19 09:38:33,961 : INFO : __main__ : Episode:    116, interaction_steps: 237568, reward:  9, epsilon: 0.774310
+2020-06-19 09:38:51,257 : INFO : __main__ : Episode:    117, interaction_steps: 239616, reward: 10, epsilon: 0.772365
+2020-06-19 09:39:08,552 : INFO : __main__ : Episode:    118, interaction_steps: 241664, reward: 10, epsilon: 0.770419
+2020-06-19 09:39:25,828 : INFO : __main__ : Episode:    119, interaction_steps: 243712, reward:  9, epsilon: 0.768474
+2020-06-19 09:39:43,139 : INFO : __main__ : Episode:    120, interaction_steps: 245760, reward: 11, epsilon: 0.766528
+2020-06-19 09:40:00,433 : INFO : __main__ : Episode:    121, interaction_steps: 247808, reward: 11, epsilon: 0.764582
+2020-06-19 09:41:10,189 : INFO : __main__ : Evaluation: True, episode:    121, interaction_steps: 247808, evaluate reward:  0
+2020-06-19 09:41:27,236 : INFO : __main__ : Episode:    122, interaction_steps: 249856, reward:  9, epsilon: 0.762637
+2020-06-19 09:41:44,301 : INFO : __main__ : Episode:    123, interaction_steps: 251904, reward: 11, epsilon: 0.760691
+2020-06-19 09:42:01,410 : INFO : __main__ : Episode:    124, interaction_steps: 253952, reward: 10, epsilon: 0.758746
+2020-06-19 09:42:18,531 : INFO : __main__ : Episode:    125, interaction_steps: 256000, reward:  9, epsilon: 0.756800
+2020-06-19 09:42:35,613 : INFO : __main__ : Episode:    126, interaction_steps: 258048, reward: 10, epsilon: 0.754854
+2020-06-19 09:42:52,758 : INFO : __main__ : Episode:    127, interaction_steps: 260096, reward:  9, epsilon: 0.752909
+2020-06-19 09:43:09,993 : INFO : __main__ : Episode:    128, interaction_steps: 262144, reward:  6, epsilon: 0.750963
+2020-06-19 09:43:27,210 : INFO : __main__ : Episode:    129, interaction_steps: 264192, reward: 10, epsilon: 0.749018
+2020-06-19 09:43:44,563 : INFO : __main__ : Episode:    130, interaction_steps: 266240, reward: 12, epsilon: 0.747072
+2020-06-19 09:44:01,880 : INFO : __main__ : Episode:    131, interaction_steps: 268288, reward: 10, epsilon: 0.745126
+2020-06-19 09:45:11,295 : INFO : __main__ : Evaluation: True, episode:    131, interaction_steps: 268288, evaluate reward:  0
+2020-06-19 09:45:28,336 : INFO : __main__ : Episode:    132, interaction_steps: 270336, reward: 11, epsilon: 0.743181
+2020-06-19 09:45:45,454 : INFO : __main__ : Episode:    133, interaction_steps: 272384, reward: 10, epsilon: 0.741235
+2020-06-19 09:46:02,634 : INFO : __main__ : Episode:    134, interaction_steps: 274432, reward:  9, epsilon: 0.739290
+2020-06-19 09:46:19,851 : INFO : __main__ : Episode:    135, interaction_steps: 276480, reward:  9, epsilon: 0.737344
+2020-06-19 09:46:37,275 : INFO : __main__ : Episode:    136, interaction_steps: 278528, reward:  8, epsilon: 0.735398
+2020-06-19 09:46:54,845 : INFO : __main__ : Episode:    137, interaction_steps: 280576, reward:  9, epsilon: 0.733453
+2020-06-19 09:47:12,249 : INFO : __main__ : Episode:    138, interaction_steps: 282624, reward: 11, epsilon: 0.731507
+2020-06-19 09:47:29,620 : INFO : __main__ : Episode:    139, interaction_steps: 284672, reward: 10, epsilon: 0.729562
+2020-06-19 09:47:46,955 : INFO : __main__ : Episode:    140, interaction_steps: 286720, reward:  8, epsilon: 0.727616
+2020-06-19 09:48:04,436 : INFO : __main__ : Episode:    141, interaction_steps: 288768, reward:  9, epsilon: 0.725670
+2020-06-19 09:49:14,641 : INFO : __main__ : Evaluation: True, episode:    141, interaction_steps: 288768, evaluate reward:  0
+2020-06-19 09:49:32,274 : INFO : __main__ : Episode:    142, interaction_steps: 290816, reward:  8, epsilon: 0.723725
+2020-06-19 09:49:49,892 : INFO : __main__ : Episode:    143, interaction_steps: 292864, reward: 10, epsilon: 0.721779
+2020-06-19 09:50:07,361 : INFO : __main__ : Episode:    144, interaction_steps: 294912, reward:  9, epsilon: 0.719834
+2020-06-19 09:50:24,805 : INFO : __main__ : Episode:    145, interaction_steps: 296960, reward: 10, epsilon: 0.717888
+2020-06-19 09:50:42,309 : INFO : __main__ : Episode:    146, interaction_steps: 299008, reward:  8, epsilon: 0.715942
+2020-06-19 09:50:59,862 : INFO : __main__ : Episode:    147, interaction_steps: 301056, reward: 13, epsilon: 0.713997
+2020-06-19 09:51:17,451 : INFO : __main__ : Episode:    148, interaction_steps: 303104, reward: 11, epsilon: 0.712051
+2020-06-19 09:51:34,835 : INFO : __main__ : Episode:    149, interaction_steps: 305152, reward:  8, epsilon: 0.710106
+2020-06-19 09:51:52,247 : INFO : __main__ : Episode:    150, interaction_steps: 307200, reward: 11, epsilon: 0.708160
+2020-06-19 09:52:09,638 : INFO : __main__ : Episode:    151, interaction_steps: 309248, reward: 11, epsilon: 0.706214
+2020-06-19 09:52:09,669 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 09:53:19,680 : INFO : __main__ : Evaluation: True, episode:    151, interaction_steps: 309248, evaluate reward:  0
+2020-06-19 09:53:36,890 : INFO : __main__ : Episode:    152, interaction_steps: 311296, reward: 13, epsilon: 0.704269
+2020-06-19 09:53:54,118 : INFO : __main__ : Episode:    153, interaction_steps: 313344, reward:  9, epsilon: 0.702323
+2020-06-19 09:54:11,427 : INFO : __main__ : Episode:    154, interaction_steps: 315392, reward:  8, epsilon: 0.700378
+2020-06-19 09:54:28,626 : INFO : __main__ : Episode:    155, interaction_steps: 317440, reward: 12, epsilon: 0.698432
+2020-06-19 09:54:45,840 : INFO : __main__ : Episode:    156, interaction_steps: 319488, reward: 13, epsilon: 0.696486
+2020-06-19 09:55:03,104 : INFO : __main__ : Episode:    157, interaction_steps: 321536, reward: 11, epsilon: 0.694541
+2020-06-19 09:55:20,442 : INFO : __main__ : Episode:    158, interaction_steps: 323584, reward: 10, epsilon: 0.692595
+2020-06-19 09:55:37,721 : INFO : __main__ : Episode:    159, interaction_steps: 325632, reward: 10, epsilon: 0.690650
+2020-06-19 09:55:55,005 : INFO : __main__ : Episode:    160, interaction_steps: 327680, reward:  8, epsilon: 0.688704
+2020-06-19 09:56:12,292 : INFO : __main__ : Episode:    161, interaction_steps: 329728, reward:  9, epsilon: 0.686758
+2020-06-19 09:57:21,632 : INFO : __main__ : Evaluation: True, episode:    161, interaction_steps: 329728, evaluate reward:  0
+2020-06-19 09:57:38,771 : INFO : __main__ : Episode:    162, interaction_steps: 331776, reward: 13, epsilon: 0.684813
+2020-06-19 09:57:55,886 : INFO : __main__ : Episode:    163, interaction_steps: 333824, reward: 12, epsilon: 0.682867
+2020-06-19 09:58:13,021 : INFO : __main__ : Episode:    164, interaction_steps: 335872, reward:  9, epsilon: 0.680922
+2020-06-19 09:58:30,249 : INFO : __main__ : Episode:    165, interaction_steps: 337920, reward: 10, epsilon: 0.678976
+2020-06-19 09:58:47,501 : INFO : __main__ : Episode:    166, interaction_steps: 339968, reward: 13, epsilon: 0.677030
+2020-06-19 09:59:04,778 : INFO : __main__ : Episode:    167, interaction_steps: 342016, reward: 12, epsilon: 0.675085
+2020-06-19 09:59:22,162 : INFO : __main__ : Episode:    168, interaction_steps: 344064, reward: 10, epsilon: 0.673139
+2020-06-19 09:59:39,518 : INFO : __main__ : Episode:    169, interaction_steps: 346112, reward: 15, epsilon: 0.671194
+2020-06-19 09:59:56,965 : INFO : __main__ : Episode:    170, interaction_steps: 348160, reward: 12, epsilon: 0.669248
+2020-06-19 10:00:14,315 : INFO : __main__ : Episode:    171, interaction_steps: 350208, reward: 12, epsilon: 0.667302
+2020-06-19 10:01:24,027 : INFO : __main__ : Evaluation: True, episode:    171, interaction_steps: 350208, evaluate reward:  0
+2020-06-19 10:01:41,481 : INFO : __main__ : Episode:    172, interaction_steps: 352256, reward: 13, epsilon: 0.665357
+2020-06-19 10:01:58,950 : INFO : __main__ : Episode:    173, interaction_steps: 354304, reward: 15, epsilon: 0.663411
+2020-06-19 10:02:16,312 : INFO : __main__ : Episode:    174, interaction_steps: 356352, reward: 11, epsilon: 0.661466
+2020-06-19 10:02:33,635 : INFO : __main__ : Episode:    175, interaction_steps: 358400, reward: 14, epsilon: 0.659520
+2020-06-19 10:02:51,020 : INFO : __main__ : Episode:    176, interaction_steps: 360448, reward: 17, epsilon: 0.657574
+2020-06-19 10:03:08,439 : INFO : __main__ : Episode:    177, interaction_steps: 362496, reward: 12, epsilon: 0.655629
+2020-06-19 10:03:25,950 : INFO : __main__ : Episode:    178, interaction_steps: 364544, reward: 12, epsilon: 0.653683
+2020-06-19 10:03:43,350 : INFO : __main__ : Episode:    179, interaction_steps: 366592, reward: 14, epsilon: 0.651738
+2020-06-19 10:04:00,767 : INFO : __main__ : Episode:    180, interaction_steps: 368640, reward: 14, epsilon: 0.649792
+2020-06-19 10:04:18,185 : INFO : __main__ : Episode:    181, interaction_steps: 370688, reward: 12, epsilon: 0.647846
+2020-06-19 10:05:28,433 : INFO : __main__ : Evaluation: True, episode:    181, interaction_steps: 370688, evaluate reward:  1
+2020-06-19 10:05:45,604 : INFO : __main__ : Episode:    182, interaction_steps: 372736, reward: 14, epsilon: 0.645901
+2020-06-19 10:06:02,785 : INFO : __main__ : Episode:    183, interaction_steps: 374784, reward: 13, epsilon: 0.643955
+2020-06-19 10:06:19,959 : INFO : __main__ : Episode:    184, interaction_steps: 376832, reward: 14, epsilon: 0.642010
+2020-06-19 10:06:37,178 : INFO : __main__ : Episode:    185, interaction_steps: 378880, reward: 14, epsilon: 0.640064
+2020-06-19 10:06:54,454 : INFO : __main__ : Episode:    186, interaction_steps: 380928, reward: 15, epsilon: 0.638118
+2020-06-19 10:07:11,768 : INFO : __main__ : Episode:    187, interaction_steps: 382976, reward: 16, epsilon: 0.636173
+2020-06-19 10:07:29,083 : INFO : __main__ : Episode:    188, interaction_steps: 385024, reward: 15, epsilon: 0.634227
+2020-06-19 10:07:46,392 : INFO : __main__ : Episode:    189, interaction_steps: 387072, reward: 15, epsilon: 0.632282
+2020-06-19 10:08:03,708 : INFO : __main__ : Episode:    190, interaction_steps: 389120, reward: 15, epsilon: 0.630336
+2020-06-19 10:08:21,087 : INFO : __main__ : Episode:    191, interaction_steps: 391168, reward: 16, epsilon: 0.628390
+2020-06-19 10:09:31,452 : INFO : __main__ : Evaluation: True, episode:    191, interaction_steps: 391168, evaluate reward:  1
+2020-06-19 10:09:48,748 : INFO : __main__ : Episode:    192, interaction_steps: 393216, reward: 14, epsilon: 0.626445
+2020-06-19 10:10:05,909 : INFO : __main__ : Episode:    193, interaction_steps: 395264, reward: 19, epsilon: 0.624499
+2020-06-19 10:10:23,081 : INFO : __main__ : Episode:    194, interaction_steps: 397312, reward: 14, epsilon: 0.622554
+2020-06-19 10:10:40,315 : INFO : __main__ : Episode:    195, interaction_steps: 399360, reward: 16, epsilon: 0.620608
+2020-06-19 10:10:57,560 : INFO : __main__ : Episode:    196, interaction_steps: 401408, reward: 16, epsilon: 0.618662
+2020-06-19 10:11:14,907 : INFO : __main__ : Episode:    197, interaction_steps: 403456, reward: 18, epsilon: 0.616717
+2020-06-19 10:11:32,182 : INFO : __main__ : Episode:    198, interaction_steps: 405504, reward: 15, epsilon: 0.614771
+2020-06-19 10:11:49,425 : INFO : __main__ : Episode:    199, interaction_steps: 407552, reward: 15, epsilon: 0.612826
+2020-06-19 10:12:06,812 : INFO : __main__ : Episode:    200, interaction_steps: 409600, reward: 17, epsilon: 0.610880
+2020-06-19 10:12:24,269 : INFO : __main__ : Episode:    201, interaction_steps: 411648, reward: 14, epsilon: 0.608934
+2020-06-19 10:12:24,292 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 10:13:33,238 : INFO : __main__ : Evaluation: True, episode:    201, interaction_steps: 411648, evaluate reward:  2
+2020-06-19 10:13:50,699 : INFO : __main__ : Episode:    202, interaction_steps: 413696, reward: 15, epsilon: 0.606989
+2020-06-19 10:14:08,240 : INFO : __main__ : Episode:    203, interaction_steps: 415744, reward: 15, epsilon: 0.605043
+2020-06-19 10:14:25,639 : INFO : __main__ : Episode:    204, interaction_steps: 417792, reward: 15, epsilon: 0.603098
+2020-06-19 10:14:42,928 : INFO : __main__ : Episode:    205, interaction_steps: 419840, reward: 17, epsilon: 0.601152
+2020-06-19 10:15:00,404 : INFO : __main__ : Episode:    206, interaction_steps: 421888, reward: 15, epsilon: 0.599206
+2020-06-19 10:15:17,894 : INFO : __main__ : Episode:    207, interaction_steps: 423936, reward: 15, epsilon: 0.597261
+2020-06-19 10:15:35,397 : INFO : __main__ : Episode:    208, interaction_steps: 425984, reward: 16, epsilon: 0.595315
+2020-06-19 10:15:52,907 : INFO : __main__ : Episode:    209, interaction_steps: 428032, reward: 14, epsilon: 0.593370
+2020-06-19 10:16:10,306 : INFO : __main__ : Episode:    210, interaction_steps: 430080, reward: 14, epsilon: 0.591424
+2020-06-19 10:16:27,733 : INFO : __main__ : Episode:    211, interaction_steps: 432128, reward: 13, epsilon: 0.589478
+2020-06-19 10:17:37,373 : INFO : __main__ : Evaluation: True, episode:    211, interaction_steps: 432128, evaluate reward:  2
+2020-06-19 10:17:54,682 : INFO : __main__ : Episode:    212, interaction_steps: 434176, reward: 16, epsilon: 0.587533
+2020-06-19 10:18:11,949 : INFO : __main__ : Episode:    213, interaction_steps: 436224, reward: 16, epsilon: 0.585587
+2020-06-19 10:18:29,253 : INFO : __main__ : Episode:    214, interaction_steps: 438272, reward: 16, epsilon: 0.583642
+2020-06-19 10:18:46,631 : INFO : __main__ : Episode:    215, interaction_steps: 440320, reward: 13, epsilon: 0.581696
+2020-06-19 10:19:04,040 : INFO : __main__ : Episode:    216, interaction_steps: 442368, reward: 18, epsilon: 0.579750
+2020-06-19 10:19:21,470 : INFO : __main__ : Episode:    217, interaction_steps: 444416, reward: 15, epsilon: 0.577805
+2020-06-19 10:19:38,886 : INFO : __main__ : Episode:    218, interaction_steps: 446464, reward: 16, epsilon: 0.575859
+2020-06-19 10:19:56,359 : INFO : __main__ : Episode:    219, interaction_steps: 448512, reward: 17, epsilon: 0.573914
+2020-06-19 10:20:13,822 : INFO : __main__ : Episode:    220, interaction_steps: 450560, reward: 16, epsilon: 0.571968
+2020-06-19 10:20:31,234 : INFO : __main__ : Episode:    221, interaction_steps: 452608, reward: 17, epsilon: 0.570022
+2020-06-19 10:21:41,064 : INFO : __main__ : Evaluation: True, episode:    221, interaction_steps: 452608, evaluate reward:  2
+2020-06-19 10:21:58,262 : INFO : __main__ : Episode:    222, interaction_steps: 454656, reward: 18, epsilon: 0.568077
+2020-06-19 10:22:15,458 : INFO : __main__ : Episode:    223, interaction_steps: 456704, reward: 15, epsilon: 0.566131
+2020-06-19 10:22:32,654 : INFO : __main__ : Episode:    224, interaction_steps: 458752, reward: 16, epsilon: 0.564186
+2020-06-19 10:22:49,903 : INFO : __main__ : Episode:    225, interaction_steps: 460800, reward: 17, epsilon: 0.562240
+2020-06-19 10:23:07,190 : INFO : __main__ : Episode:    226, interaction_steps: 462848, reward: 16, epsilon: 0.560294
+2020-06-19 10:23:24,588 : INFO : __main__ : Episode:    227, interaction_steps: 464896, reward: 16, epsilon: 0.558349
+2020-06-19 10:23:41,958 : INFO : __main__ : Episode:    228, interaction_steps: 466944, reward: 19, epsilon: 0.556403
+2020-06-19 10:23:59,349 : INFO : __main__ : Episode:    229, interaction_steps: 468992, reward: 15, epsilon: 0.554458
+2020-06-19 10:24:16,763 : INFO : __main__ : Episode:    230, interaction_steps: 471040, reward: 19, epsilon: 0.552512
+2020-06-19 10:24:34,362 : INFO : __main__ : Episode:    231, interaction_steps: 473088, reward: 18, epsilon: 0.550566
+2020-06-19 10:25:46,136 : INFO : __main__ : Evaluation: True, episode:    231, interaction_steps: 473088, evaluate reward:  3
+2020-06-19 10:26:03,510 : INFO : __main__ : Episode:    232, interaction_steps: 475136, reward: 18, epsilon: 0.548621
+2020-06-19 10:26:20,757 : INFO : __main__ : Episode:    233, interaction_steps: 477184, reward: 17, epsilon: 0.546675
+2020-06-19 10:26:38,243 : INFO : __main__ : Episode:    234, interaction_steps: 479232, reward: 17, epsilon: 0.544730
+2020-06-19 10:26:55,729 : INFO : __main__ : Episode:    235, interaction_steps: 481280, reward: 19, epsilon: 0.542784
+2020-06-19 10:27:13,380 : INFO : __main__ : Episode:    236, interaction_steps: 483328, reward: 17, epsilon: 0.540838
+2020-06-19 10:27:30,886 : INFO : __main__ : Episode:    237, interaction_steps: 485376, reward: 18, epsilon: 0.538893
+2020-06-19 10:27:48,263 : INFO : __main__ : Episode:    238, interaction_steps: 487424, reward: 16, epsilon: 0.536947
+2020-06-19 10:28:05,651 : INFO : __main__ : Episode:    239, interaction_steps: 489472, reward: 18, epsilon: 0.535002
+2020-06-19 10:28:23,008 : INFO : __main__ : Episode:    240, interaction_steps: 491520, reward: 17, epsilon: 0.533056
+2020-06-19 10:28:40,497 : INFO : __main__ : Episode:    241, interaction_steps: 493568, reward: 19, epsilon: 0.531110
+2020-06-19 10:29:49,649 : INFO : __main__ : Evaluation: True, episode:    241, interaction_steps: 493568, evaluate reward:  3
+2020-06-19 10:30:07,198 : INFO : __main__ : Episode:    242, interaction_steps: 495616, reward: 18, epsilon: 0.529165
+2020-06-19 10:30:24,974 : INFO : __main__ : Episode:    243, interaction_steps: 497664, reward: 19, epsilon: 0.527219
+2020-06-19 10:30:42,409 : INFO : __main__ : Episode:    244, interaction_steps: 499712, reward: 17, epsilon: 0.525274
+2020-06-19 10:30:59,821 : INFO : __main__ : Episode:    245, interaction_steps: 501760, reward: 19, epsilon: 0.523328
+2020-06-19 10:31:17,273 : INFO : __main__ : Episode:    246, interaction_steps: 503808, reward: 18, epsilon: 0.521382
+2020-06-19 10:31:34,740 : INFO : __main__ : Episode:    247, interaction_steps: 505856, reward: 19, epsilon: 0.519437
+2020-06-19 10:31:52,261 : INFO : __main__ : Episode:    248, interaction_steps: 507904, reward: 18, epsilon: 0.517491
+2020-06-19 10:32:09,749 : INFO : __main__ : Episode:    249, interaction_steps: 509952, reward: 19, epsilon: 0.515546
+2020-06-19 10:32:27,195 : INFO : __main__ : Episode:    250, interaction_steps: 512000, reward: 20, epsilon: 0.513600
+2020-06-19 10:32:44,659 : INFO : __main__ : Episode:    251, interaction_steps: 514048, reward: 18, epsilon: 0.511654
+2020-06-19 10:32:44,685 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 10:33:54,276 : INFO : __main__ : Evaluation: True, episode:    251, interaction_steps: 514048, evaluate reward:  4
+2020-06-19 10:34:12,095 : INFO : __main__ : Episode:    252, interaction_steps: 516096, reward: 19, epsilon: 0.509709
+2020-06-19 10:34:29,812 : INFO : __main__ : Episode:    253, interaction_steps: 518144, reward: 17, epsilon: 0.507763
+2020-06-19 10:34:47,435 : INFO : __main__ : Episode:    254, interaction_steps: 520192, reward: 19, epsilon: 0.505818
+2020-06-19 10:35:04,813 : INFO : __main__ : Episode:    255, interaction_steps: 522240, reward: 17, epsilon: 0.503872
+2020-06-19 10:35:22,232 : INFO : __main__ : Episode:    256, interaction_steps: 524288, reward: 19, epsilon: 0.501926
+2020-06-19 10:35:39,831 : INFO : __main__ : Episode:    257, interaction_steps: 526336, reward: 15, epsilon: 0.499981
+2020-06-19 10:35:57,269 : INFO : __main__ : Episode:    258, interaction_steps: 528384, reward: 17, epsilon: 0.498035
+2020-06-19 10:36:14,702 : INFO : __main__ : Episode:    259, interaction_steps: 530432, reward: 17, epsilon: 0.496090
+2020-06-19 10:36:32,135 : INFO : __main__ : Episode:    260, interaction_steps: 532480, reward: 19, epsilon: 0.494144
+2020-06-19 10:36:49,620 : INFO : __main__ : Episode:    261, interaction_steps: 534528, reward: 18, epsilon: 0.492198
+2020-06-19 10:37:58,583 : INFO : __main__ : Evaluation: True, episode:    261, interaction_steps: 534528, evaluate reward:  4
+2020-06-19 10:38:15,863 : INFO : __main__ : Episode:    262, interaction_steps: 536576, reward: 17, epsilon: 0.490253
+2020-06-19 10:38:33,014 : INFO : __main__ : Episode:    263, interaction_steps: 538624, reward: 17, epsilon: 0.488307
+2020-06-19 10:38:50,326 : INFO : __main__ : Episode:    264, interaction_steps: 540672, reward: 19, epsilon: 0.486362
+2020-06-19 10:39:07,735 : INFO : __main__ : Episode:    265, interaction_steps: 542720, reward: 20, epsilon: 0.484416
+2020-06-19 10:39:25,136 : INFO : __main__ : Episode:    266, interaction_steps: 544768, reward: 20, epsilon: 0.482470
+2020-06-19 10:39:42,516 : INFO : __main__ : Episode:    267, interaction_steps: 546816, reward: 17, epsilon: 0.480525
+2020-06-19 10:39:59,867 : INFO : __main__ : Episode:    268, interaction_steps: 548864, reward: 18, epsilon: 0.478579
+2020-06-19 10:40:17,252 : INFO : __main__ : Episode:    269, interaction_steps: 550912, reward: 19, epsilon: 0.476634
+2020-06-19 10:40:34,707 : INFO : __main__ : Episode:    270, interaction_steps: 552960, reward: 19, epsilon: 0.474688
+2020-06-19 10:40:52,323 : INFO : __main__ : Episode:    271, interaction_steps: 555008, reward: 18, epsilon: 0.472742
+2020-06-19 10:42:01,719 : INFO : __main__ : Evaluation: True, episode:    271, interaction_steps: 555008, evaluate reward:  5
+2020-06-19 10:42:18,951 : INFO : __main__ : Episode:    272, interaction_steps: 557056, reward: 19, epsilon: 0.470797
+2020-06-19 10:42:36,090 : INFO : __main__ : Episode:    273, interaction_steps: 559104, reward: 17, epsilon: 0.468851
+2020-06-19 10:42:53,325 : INFO : __main__ : Episode:    274, interaction_steps: 561152, reward: 18, epsilon: 0.466906
+2020-06-19 10:43:10,579 : INFO : __main__ : Episode:    275, interaction_steps: 563200, reward: 21, epsilon: 0.464960
+2020-06-19 10:43:27,897 : INFO : __main__ : Episode:    276, interaction_steps: 565248, reward: 19, epsilon: 0.463014
+2020-06-19 10:43:45,243 : INFO : __main__ : Episode:    277, interaction_steps: 567296, reward: 19, epsilon: 0.461069
+2020-06-19 10:44:02,561 : INFO : __main__ : Episode:    278, interaction_steps: 569344, reward: 18, epsilon: 0.459123
+2020-06-19 10:44:19,949 : INFO : __main__ : Episode:    279, interaction_steps: 571392, reward: 19, epsilon: 0.457178
+2020-06-19 10:44:37,280 : INFO : __main__ : Episode:    280, interaction_steps: 573440, reward: 21, epsilon: 0.455232
+2020-06-19 10:44:54,749 : INFO : __main__ : Episode:    281, interaction_steps: 575488, reward: 19, epsilon: 0.453286
+2020-06-19 10:46:03,428 : INFO : __main__ : Evaluation: True, episode:    281, interaction_steps: 575488, evaluate reward:  4
+2020-06-19 10:46:20,795 : INFO : __main__ : Episode:    282, interaction_steps: 577536, reward: 20, epsilon: 0.451341
+2020-06-19 10:46:38,219 : INFO : __main__ : Episode:    283, interaction_steps: 579584, reward: 22, epsilon: 0.449395
+2020-06-19 10:46:55,656 : INFO : __main__ : Episode:    284, interaction_steps: 581632, reward: 22, epsilon: 0.447450
+2020-06-19 10:47:13,139 : INFO : __main__ : Episode:    285, interaction_steps: 583680, reward: 23, epsilon: 0.445504
+2020-06-19 10:47:30,589 : INFO : __main__ : Episode:    286, interaction_steps: 585728, reward: 20, epsilon: 0.443558
+2020-06-19 10:47:48,013 : INFO : __main__ : Episode:    287, interaction_steps: 587776, reward: 22, epsilon: 0.441613
+2020-06-19 10:48:05,485 : INFO : __main__ : Episode:    288, interaction_steps: 589824, reward: 20, epsilon: 0.439667
+2020-06-19 10:48:23,024 : INFO : __main__ : Episode:    289, interaction_steps: 591872, reward: 19, epsilon: 0.437722
+2020-06-19 10:48:40,652 : INFO : __main__ : Episode:    290, interaction_steps: 593920, reward: 22, epsilon: 0.435776
+2020-06-19 10:48:58,323 : INFO : __main__ : Episode:    291, interaction_steps: 595968, reward: 22, epsilon: 0.433830
+2020-06-19 10:50:07,875 : INFO : __main__ : Evaluation: True, episode:    291, interaction_steps: 595968, evaluate reward:  5
+2020-06-19 10:50:25,219 : INFO : __main__ : Episode:    292, interaction_steps: 598016, reward: 24, epsilon: 0.431885
+2020-06-19 10:50:42,523 : INFO : __main__ : Episode:    293, interaction_steps: 600064, reward: 22, epsilon: 0.429939
+2020-06-19 10:50:59,937 : INFO : __main__ : Episode:    294, interaction_steps: 602112, reward: 21, epsilon: 0.427994
+2020-06-19 10:51:17,485 : INFO : __main__ : Episode:    295, interaction_steps: 604160, reward: 22, epsilon: 0.426048
+2020-06-19 10:51:34,994 : INFO : __main__ : Episode:    296, interaction_steps: 606208, reward: 21, epsilon: 0.424102
+2020-06-19 10:51:52,510 : INFO : __main__ : Episode:    297, interaction_steps: 608256, reward: 22, epsilon: 0.422157
+2020-06-19 10:52:10,244 : INFO : __main__ : Episode:    298, interaction_steps: 610304, reward: 22, epsilon: 0.420211
+2020-06-19 10:52:27,794 : INFO : __main__ : Episode:    299, interaction_steps: 612352, reward: 24, epsilon: 0.418266
+2020-06-19 10:52:45,369 : INFO : __main__ : Episode:    300, interaction_steps: 614400, reward: 25, epsilon: 0.416320
+2020-06-19 10:53:02,962 : INFO : __main__ : Episode:    301, interaction_steps: 616448, reward: 21, epsilon: 0.414374
+2020-06-19 10:53:02,987 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 10:54:12,814 : INFO : __main__ : Evaluation: True, episode:    301, interaction_steps: 616448, evaluate reward:  5
+2020-06-19 10:54:30,161 : INFO : __main__ : Episode:    302, interaction_steps: 618496, reward: 24, epsilon: 0.412429
+2020-06-19 10:54:47,451 : INFO : __main__ : Episode:    303, interaction_steps: 620544, reward: 21, epsilon: 0.410483
+2020-06-19 10:55:04,790 : INFO : __main__ : Episode:    304, interaction_steps: 622592, reward: 20, epsilon: 0.408538
+2020-06-19 10:55:22,227 : INFO : __main__ : Episode:    305, interaction_steps: 624640, reward: 21, epsilon: 0.406592
+2020-06-19 10:55:39,718 : INFO : __main__ : Episode:    306, interaction_steps: 626688, reward: 23, epsilon: 0.404646
+2020-06-19 10:55:57,115 : INFO : __main__ : Episode:    307, interaction_steps: 628736, reward: 20, epsilon: 0.402701
+2020-06-19 10:56:14,610 : INFO : __main__ : Episode:    308, interaction_steps: 630784, reward: 23, epsilon: 0.400755
+2020-06-19 10:56:32,031 : INFO : __main__ : Episode:    309, interaction_steps: 632832, reward: 21, epsilon: 0.398810
+2020-06-19 10:56:49,494 : INFO : __main__ : Episode:    310, interaction_steps: 634880, reward: 21, epsilon: 0.396864
+2020-06-19 10:57:07,018 : INFO : __main__ : Episode:    311, interaction_steps: 636928, reward: 21, epsilon: 0.394918
+2020-06-19 10:58:16,626 : INFO : __main__ : Evaluation: True, episode:    311, interaction_steps: 636928, evaluate reward:  5
+2020-06-19 10:58:33,746 : INFO : __main__ : Episode:    312, interaction_steps: 638976, reward: 23, epsilon: 0.392973
+2020-06-19 10:58:50,932 : INFO : __main__ : Episode:    313, interaction_steps: 641024, reward: 22, epsilon: 0.391027
+2020-06-19 10:59:08,281 : INFO : __main__ : Episode:    314, interaction_steps: 643072, reward: 24, epsilon: 0.389082
+2020-06-19 10:59:25,776 : INFO : __main__ : Episode:    315, interaction_steps: 645120, reward: 23, epsilon: 0.387136
+2020-06-19 10:59:43,164 : INFO : __main__ : Episode:    316, interaction_steps: 647168, reward: 22, epsilon: 0.385190
+2020-06-19 11:00:00,395 : INFO : __main__ : Episode:    317, interaction_steps: 649216, reward: 24, epsilon: 0.383245
+2020-06-19 11:00:17,658 : INFO : __main__ : Episode:    318, interaction_steps: 651264, reward: 24, epsilon: 0.381299
+2020-06-19 11:00:34,977 : INFO : __main__ : Episode:    319, interaction_steps: 653312, reward: 25, epsilon: 0.379354
+2020-06-19 11:00:52,362 : INFO : __main__ : Episode:    320, interaction_steps: 655360, reward: 24, epsilon: 0.377408
+2020-06-19 11:01:09,841 : INFO : __main__ : Episode:    321, interaction_steps: 657408, reward: 22, epsilon: 0.375462
+2020-06-19 11:02:17,908 : INFO : __main__ : Evaluation: True, episode:    321, interaction_steps: 657408, evaluate reward:  5
+2020-06-19 11:02:35,200 : INFO : __main__ : Episode:    322, interaction_steps: 659456, reward: 23, epsilon: 0.373517
+2020-06-19 11:02:52,416 : INFO : __main__ : Episode:    323, interaction_steps: 661504, reward: 24, epsilon: 0.371571
+2020-06-19 11:03:09,648 : INFO : __main__ : Episode:    324, interaction_steps: 663552, reward: 22, epsilon: 0.369626
+2020-06-19 11:03:26,935 : INFO : __main__ : Episode:    325, interaction_steps: 665600, reward: 22, epsilon: 0.367680
+2020-06-19 11:03:44,318 : INFO : __main__ : Episode:    326, interaction_steps: 667648, reward: 25, epsilon: 0.365734
+2020-06-19 11:04:01,633 : INFO : __main__ : Episode:    327, interaction_steps: 669696, reward: 24, epsilon: 0.363789
+2020-06-19 11:04:18,946 : INFO : __main__ : Episode:    328, interaction_steps: 671744, reward: 22, epsilon: 0.361843
+2020-06-19 11:04:36,297 : INFO : __main__ : Episode:    329, interaction_steps: 673792, reward: 25, epsilon: 0.359898
+2020-06-19 11:04:53,656 : INFO : __main__ : Episode:    330, interaction_steps: 675840, reward: 24, epsilon: 0.357952
+2020-06-19 11:05:11,051 : INFO : __main__ : Episode:    331, interaction_steps: 677888, reward: 24, epsilon: 0.356006
+2020-06-19 11:06:19,017 : INFO : __main__ : Evaluation: True, episode:    331, interaction_steps: 677888, evaluate reward:  5
+2020-06-19 11:06:36,252 : INFO : __main__ : Episode:    332, interaction_steps: 679936, reward: 24, epsilon: 0.354061
+2020-06-19 11:06:53,373 : INFO : __main__ : Episode:    333, interaction_steps: 681984, reward: 25, epsilon: 0.352115
+2020-06-19 11:07:10,481 : INFO : __main__ : Episode:    334, interaction_steps: 684032, reward: 26, epsilon: 0.350170
+2020-06-19 11:07:27,697 : INFO : __main__ : Episode:    335, interaction_steps: 686080, reward: 21, epsilon: 0.348224
+2020-06-19 11:07:44,963 : INFO : __main__ : Episode:    336, interaction_steps: 688128, reward: 26, epsilon: 0.346278
+2020-06-19 11:08:02,178 : INFO : __main__ : Episode:    337, interaction_steps: 690176, reward: 24, epsilon: 0.344333
+2020-06-19 11:08:19,419 : INFO : __main__ : Episode:    338, interaction_steps: 692224, reward: 25, epsilon: 0.342387
+2020-06-19 11:08:36,679 : INFO : __main__ : Episode:    339, interaction_steps: 694272, reward: 24, epsilon: 0.340442
+2020-06-19 11:08:54,003 : INFO : __main__ : Episode:    340, interaction_steps: 696320, reward: 26, epsilon: 0.338496
+2020-06-19 11:09:11,367 : INFO : __main__ : Episode:    341, interaction_steps: 698368, reward: 24, epsilon: 0.336550
+2020-06-19 11:10:19,513 : INFO : __main__ : Evaluation: True, episode:    341, interaction_steps: 698368, evaluate reward:  6
+2020-06-19 11:10:36,631 : INFO : __main__ : Episode:    342, interaction_steps: 700416, reward: 25, epsilon: 0.334605
+2020-06-19 11:10:53,654 : INFO : __main__ : Episode:    343, interaction_steps: 702464, reward: 23, epsilon: 0.332659
+2020-06-19 11:11:10,769 : INFO : __main__ : Episode:    344, interaction_steps: 704512, reward: 25, epsilon: 0.330714
+2020-06-19 11:11:27,848 : INFO : __main__ : Episode:    345, interaction_steps: 706560, reward: 25, epsilon: 0.328768
+2020-06-19 11:11:45,269 : INFO : __main__ : Episode:    346, interaction_steps: 708608, reward: 25, epsilon: 0.326822
+2020-06-19 11:12:02,826 : INFO : __main__ : Episode:    347, interaction_steps: 710656, reward: 26, epsilon: 0.324877
+2020-06-19 11:12:20,308 : INFO : __main__ : Episode:    348, interaction_steps: 712704, reward: 24, epsilon: 0.322931
+2020-06-19 11:12:37,705 : INFO : __main__ : Episode:    349, interaction_steps: 714752, reward: 24, epsilon: 0.320986
+2020-06-19 11:12:55,054 : INFO : __main__ : Episode:    350, interaction_steps: 716800, reward: 22, epsilon: 0.319040
+2020-06-19 11:13:12,482 : INFO : __main__ : Episode:    351, interaction_steps: 718848, reward: 25, epsilon: 0.317094
+2020-06-19 11:13:12,506 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 11:14:20,218 : INFO : __main__ : Evaluation: True, episode:    351, interaction_steps: 718848, evaluate reward:  5
+2020-06-19 11:14:37,455 : INFO : __main__ : Episode:    352, interaction_steps: 720896, reward: 26, epsilon: 0.315149
+2020-06-19 11:14:54,550 : INFO : __main__ : Episode:    353, interaction_steps: 722944, reward: 25, epsilon: 0.313203
+2020-06-19 11:15:11,757 : INFO : __main__ : Episode:    354, interaction_steps: 724992, reward: 27, epsilon: 0.311258
+2020-06-19 11:15:28,968 : INFO : __main__ : Episode:    355, interaction_steps: 727040, reward: 25, epsilon: 0.309312
+2020-06-19 11:15:46,248 : INFO : __main__ : Episode:    356, interaction_steps: 729088, reward: 26, epsilon: 0.307366
+2020-06-19 11:16:03,427 : INFO : __main__ : Episode:    357, interaction_steps: 731136, reward: 24, epsilon: 0.305421
+2020-06-19 11:16:20,677 : INFO : __main__ : Episode:    358, interaction_steps: 733184, reward: 22, epsilon: 0.303475
+2020-06-19 11:16:37,916 : INFO : __main__ : Episode:    359, interaction_steps: 735232, reward: 25, epsilon: 0.301530
+2020-06-19 11:16:55,335 : INFO : __main__ : Episode:    360, interaction_steps: 737280, reward: 25, epsilon: 0.299584
+2020-06-19 11:17:12,778 : INFO : __main__ : Episode:    361, interaction_steps: 739328, reward: 27, epsilon: 0.297638
+2020-06-19 11:18:20,813 : INFO : __main__ : Evaluation: True, episode:    361, interaction_steps: 739328, evaluate reward:  6
+2020-06-19 11:18:37,939 : INFO : __main__ : Episode:    362, interaction_steps: 741376, reward: 26, epsilon: 0.295693
+2020-06-19 11:18:55,001 : INFO : __main__ : Episode:    363, interaction_steps: 743424, reward: 24, epsilon: 0.293747
+2020-06-19 11:19:12,149 : INFO : __main__ : Episode:    364, interaction_steps: 745472, reward: 26, epsilon: 0.291802
+2020-06-19 11:19:29,365 : INFO : __main__ : Episode:    365, interaction_steps: 747520, reward: 25, epsilon: 0.289856
+2020-06-19 11:19:46,664 : INFO : __main__ : Episode:    366, interaction_steps: 749568, reward: 27, epsilon: 0.287910
+2020-06-19 11:20:03,922 : INFO : __main__ : Episode:    367, interaction_steps: 751616, reward: 22, epsilon: 0.285965
+2020-06-19 11:20:21,163 : INFO : __main__ : Episode:    368, interaction_steps: 753664, reward: 23, epsilon: 0.284019
+2020-06-19 11:20:38,457 : INFO : __main__ : Episode:    369, interaction_steps: 755712, reward: 26, epsilon: 0.282074
+2020-06-19 11:20:55,693 : INFO : __main__ : Episode:    370, interaction_steps: 757760, reward: 25, epsilon: 0.280128
+2020-06-19 11:21:13,066 : INFO : __main__ : Episode:    371, interaction_steps: 759808, reward: 27, epsilon: 0.278182
+2020-06-19 11:22:21,505 : INFO : __main__ : Evaluation: True, episode:    371, interaction_steps: 759808, evaluate reward:  6
+2020-06-19 11:22:38,652 : INFO : __main__ : Episode:    372, interaction_steps: 761856, reward: 30, epsilon: 0.276237
+2020-06-19 11:22:55,705 : INFO : __main__ : Episode:    373, interaction_steps: 763904, reward: 27, epsilon: 0.274291
+2020-06-19 11:23:12,801 : INFO : __main__ : Episode:    374, interaction_steps: 765952, reward: 26, epsilon: 0.272346
+2020-06-19 11:23:29,972 : INFO : __main__ : Episode:    375, interaction_steps: 768000, reward: 25, epsilon: 0.270400
+2020-06-19 11:23:47,438 : INFO : __main__ : Episode:    376, interaction_steps: 770048, reward: 25, epsilon: 0.268454
+2020-06-19 11:24:04,901 : INFO : __main__ : Episode:    377, interaction_steps: 772096, reward: 25, epsilon: 0.266509
+2020-06-19 11:24:22,363 : INFO : __main__ : Episode:    378, interaction_steps: 774144, reward: 24, epsilon: 0.264563
+2020-06-19 11:24:39,739 : INFO : __main__ : Episode:    379, interaction_steps: 776192, reward: 26, epsilon: 0.262618
+2020-06-19 11:24:57,205 : INFO : __main__ : Episode:    380, interaction_steps: 778240, reward: 27, epsilon: 0.260672
+2020-06-19 11:25:14,734 : INFO : __main__ : Episode:    381, interaction_steps: 780288, reward: 29, epsilon: 0.258726
+2020-06-19 11:26:23,055 : INFO : __main__ : Evaluation: True, episode:    381, interaction_steps: 780288, evaluate reward:  5
+2020-06-19 11:26:40,341 : INFO : __main__ : Episode:    382, interaction_steps: 782336, reward: 24, epsilon: 0.256781
+2020-06-19 11:26:57,550 : INFO : __main__ : Episode:    383, interaction_steps: 784384, reward: 27, epsilon: 0.254835
+2020-06-19 11:27:14,879 : INFO : __main__ : Episode:    384, interaction_steps: 786432, reward: 27, epsilon: 0.252890
+2020-06-19 11:27:32,303 : INFO : __main__ : Episode:    385, interaction_steps: 788480, reward: 27, epsilon: 0.250944
+2020-06-19 11:27:49,747 : INFO : __main__ : Episode:    386, interaction_steps: 790528, reward: 26, epsilon: 0.248998
+2020-06-19 11:28:07,074 : INFO : __main__ : Episode:    387, interaction_steps: 792576, reward: 23, epsilon: 0.247053
+2020-06-19 11:28:24,469 : INFO : __main__ : Episode:    388, interaction_steps: 794624, reward: 27, epsilon: 0.245107
+2020-06-19 11:28:41,862 : INFO : __main__ : Episode:    389, interaction_steps: 796672, reward: 27, epsilon: 0.243162
+2020-06-19 11:28:59,265 : INFO : __main__ : Episode:    390, interaction_steps: 798720, reward: 26, epsilon: 0.241216
+2020-06-19 11:29:16,717 : INFO : __main__ : Episode:    391, interaction_steps: 800768, reward: 25, epsilon: 0.239270
+2020-06-19 11:30:24,872 : INFO : __main__ : Evaluation: True, episode:    391, interaction_steps: 800768, evaluate reward:  6
+2020-06-19 11:30:42,063 : INFO : __main__ : Episode:    392, interaction_steps: 802816, reward: 24, epsilon: 0.237325
+2020-06-19 11:30:59,186 : INFO : __main__ : Episode:    393, interaction_steps: 804864, reward: 24, epsilon: 0.235379
+2020-06-19 11:31:16,409 : INFO : __main__ : Episode:    394, interaction_steps: 806912, reward: 26, epsilon: 0.233434
+2020-06-19 11:31:33,647 : INFO : __main__ : Episode:    395, interaction_steps: 808960, reward: 27, epsilon: 0.231488
+2020-06-19 11:31:50,985 : INFO : __main__ : Episode:    396, interaction_steps: 811008, reward: 27, epsilon: 0.229542
+2020-06-19 11:32:08,289 : INFO : __main__ : Episode:    397, interaction_steps: 813056, reward: 27, epsilon: 0.227597
+2020-06-19 11:32:26,067 : INFO : __main__ : Episode:    398, interaction_steps: 815104, reward: 26, epsilon: 0.225651
+2020-06-19 11:32:43,757 : INFO : __main__ : Episode:    399, interaction_steps: 817152, reward: 28, epsilon: 0.223706
+2020-06-19 11:33:01,313 : INFO : __main__ : Episode:    400, interaction_steps: 819200, reward: 24, epsilon: 0.221760
+2020-06-19 11:33:18,853 : INFO : __main__ : Episode:    401, interaction_steps: 821248, reward: 28, epsilon: 0.219814
+2020-06-19 11:33:18,877 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 11:34:26,914 : INFO : __main__ : Evaluation: True, episode:    401, interaction_steps: 821248, evaluate reward:  5
+2020-06-19 11:34:44,195 : INFO : __main__ : Episode:    402, interaction_steps: 823296, reward: 26, epsilon: 0.217869
+2020-06-19 11:35:01,431 : INFO : __main__ : Episode:    403, interaction_steps: 825344, reward: 25, epsilon: 0.215923
+2020-06-19 11:35:18,624 : INFO : __main__ : Episode:    404, interaction_steps: 827392, reward: 28, epsilon: 0.213978
+2020-06-19 11:35:35,844 : INFO : __main__ : Episode:    405, interaction_steps: 829440, reward: 26, epsilon: 0.212032
+2020-06-19 11:35:53,307 : INFO : __main__ : Episode:    406, interaction_steps: 831488, reward: 30, epsilon: 0.210086
+2020-06-19 11:36:10,811 : INFO : __main__ : Episode:    407, interaction_steps: 833536, reward: 27, epsilon: 0.208141
+2020-06-19 11:36:28,374 : INFO : __main__ : Episode:    408, interaction_steps: 835584, reward: 28, epsilon: 0.206195
+2020-06-19 11:36:45,848 : INFO : __main__ : Episode:    409, interaction_steps: 837632, reward: 26, epsilon: 0.204250
+2020-06-19 11:37:03,289 : INFO : __main__ : Episode:    410, interaction_steps: 839680, reward: 28, epsilon: 0.202304
+2020-06-19 11:37:20,863 : INFO : __main__ : Episode:    411, interaction_steps: 841728, reward: 27, epsilon: 0.200358
+2020-06-19 11:38:29,616 : INFO : __main__ : Evaluation: True, episode:    411, interaction_steps: 841728, evaluate reward:  5
+2020-06-19 11:38:46,949 : INFO : __main__ : Episode:    412, interaction_steps: 843776, reward: 28, epsilon: 0.198413
+2020-06-19 11:39:04,190 : INFO : __main__ : Episode:    413, interaction_steps: 845824, reward: 25, epsilon: 0.196467
+2020-06-19 11:39:21,542 : INFO : __main__ : Episode:    414, interaction_steps: 847872, reward: 27, epsilon: 0.194522
+2020-06-19 11:39:38,929 : INFO : __main__ : Episode:    415, interaction_steps: 849920, reward: 27, epsilon: 0.192576
+2020-06-19 11:39:56,393 : INFO : __main__ : Episode:    416, interaction_steps: 851968, reward: 29, epsilon: 0.190630
+2020-06-19 11:40:13,828 : INFO : __main__ : Episode:    417, interaction_steps: 854016, reward: 29, epsilon: 0.188685
+2020-06-19 11:40:31,223 : INFO : __main__ : Episode:    418, interaction_steps: 856064, reward: 27, epsilon: 0.186739
+2020-06-19 11:40:48,681 : INFO : __main__ : Episode:    419, interaction_steps: 858112, reward: 30, epsilon: 0.184794
+2020-06-19 11:41:06,162 : INFO : __main__ : Episode:    420, interaction_steps: 860160, reward: 29, epsilon: 0.182848
+2020-06-19 11:41:23,666 : INFO : __main__ : Episode:    421, interaction_steps: 862208, reward: 28, epsilon: 0.180902
+2020-06-19 11:42:32,575 : INFO : __main__ : Evaluation: True, episode:    421, interaction_steps: 862208, evaluate reward:  5
+2020-06-19 11:42:49,968 : INFO : __main__ : Episode:    422, interaction_steps: 864256, reward: 27, epsilon: 0.178957
+2020-06-19 11:43:07,332 : INFO : __main__ : Episode:    423, interaction_steps: 866304, reward: 28, epsilon: 0.177011
+2020-06-19 11:43:24,625 : INFO : __main__ : Episode:    424, interaction_steps: 868352, reward: 30, epsilon: 0.175066
+2020-06-19 11:43:42,002 : INFO : __main__ : Episode:    425, interaction_steps: 870400, reward: 28, epsilon: 0.173120
+2020-06-19 11:43:59,432 : INFO : __main__ : Episode:    426, interaction_steps: 872448, reward: 30, epsilon: 0.171174
+2020-06-19 11:44:16,820 : INFO : __main__ : Episode:    427, interaction_steps: 874496, reward: 28, epsilon: 0.169229
+2020-06-19 11:44:34,240 : INFO : __main__ : Episode:    428, interaction_steps: 876544, reward: 28, epsilon: 0.167283
+2020-06-19 11:44:51,631 : INFO : __main__ : Episode:    429, interaction_steps: 878592, reward: 29, epsilon: 0.165338
+2020-06-19 11:45:09,104 : INFO : __main__ : Episode:    430, interaction_steps: 880640, reward: 28, epsilon: 0.163392
+2020-06-19 11:45:26,630 : INFO : __main__ : Episode:    431, interaction_steps: 882688, reward: 27, epsilon: 0.161446
+2020-06-19 11:46:36,627 : INFO : __main__ : Evaluation: True, episode:    431, interaction_steps: 882688, evaluate reward:  6
+2020-06-19 11:46:54,128 : INFO : __main__ : Episode:    432, interaction_steps: 884736, reward: 28, epsilon: 0.159501
+2020-06-19 11:47:11,610 : INFO : __main__ : Episode:    433, interaction_steps: 886784, reward: 28, epsilon: 0.157555
+2020-06-19 11:47:29,108 : INFO : __main__ : Episode:    434, interaction_steps: 888832, reward: 29, epsilon: 0.155610
+2020-06-19 11:47:46,591 : INFO : __main__ : Episode:    435, interaction_steps: 890880, reward: 29, epsilon: 0.153664
+2020-06-19 11:48:04,495 : INFO : __main__ : Episode:    436, interaction_steps: 892928, reward: 26, epsilon: 0.151718
+2020-06-19 11:48:22,329 : INFO : __main__ : Episode:    437, interaction_steps: 894976, reward: 31, epsilon: 0.149773
+2020-06-19 11:48:40,115 : INFO : __main__ : Episode:    438, interaction_steps: 897024, reward: 27, epsilon: 0.147827
+2020-06-19 11:48:57,849 : INFO : __main__ : Episode:    439, interaction_steps: 899072, reward: 30, epsilon: 0.145882
+2020-06-19 11:49:15,562 : INFO : __main__ : Episode:    440, interaction_steps: 901120, reward: 27, epsilon: 0.143936
+2020-06-19 11:49:33,284 : INFO : __main__ : Episode:    441, interaction_steps: 903168, reward: 29, epsilon: 0.141990
+2020-06-19 11:50:42,694 : INFO : __main__ : Evaluation: True, episode:    441, interaction_steps: 903168, evaluate reward:  5
+2020-06-19 11:51:00,192 : INFO : __main__ : Episode:    442, interaction_steps: 905216, reward: 32, epsilon: 0.140045
+2020-06-19 11:51:17,579 : INFO : __main__ : Episode:    443, interaction_steps: 907264, reward: 30, epsilon: 0.138099
+2020-06-19 11:51:35,091 : INFO : __main__ : Episode:    444, interaction_steps: 909312, reward: 29, epsilon: 0.136154
+2020-06-19 11:51:52,645 : INFO : __main__ : Episode:    445, interaction_steps: 911360, reward: 29, epsilon: 0.134208
+2020-06-19 11:52:10,240 : INFO : __main__ : Episode:    446, interaction_steps: 913408, reward: 30, epsilon: 0.132262
+2020-06-19 11:52:27,788 : INFO : __main__ : Episode:    447, interaction_steps: 915456, reward: 28, epsilon: 0.130317
+2020-06-19 11:52:45,354 : INFO : __main__ : Episode:    448, interaction_steps: 917504, reward: 28, epsilon: 0.128371
+2020-06-19 11:53:02,904 : INFO : __main__ : Episode:    449, interaction_steps: 919552, reward: 28, epsilon: 0.126426
+2020-06-19 11:53:20,684 : INFO : __main__ : Episode:    450, interaction_steps: 921600, reward: 30, epsilon: 0.124480
+2020-06-19 11:53:38,352 : INFO : __main__ : Episode:    451, interaction_steps: 923648, reward: 31, epsilon: 0.122534
+2020-06-19 11:53:38,374 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 11:54:48,061 : INFO : __main__ : Evaluation: True, episode:    451, interaction_steps: 923648, evaluate reward:  5
+2020-06-19 11:55:05,500 : INFO : __main__ : Episode:    452, interaction_steps: 925696, reward: 31, epsilon: 0.120589
+2020-06-19 11:55:22,887 : INFO : __main__ : Episode:    453, interaction_steps: 927744, reward: 27, epsilon: 0.118643
+2020-06-19 11:55:40,274 : INFO : __main__ : Episode:    454, interaction_steps: 929792, reward: 31, epsilon: 0.116698
+2020-06-19 11:55:57,760 : INFO : __main__ : Episode:    455, interaction_steps: 931840, reward: 29, epsilon: 0.114752
+2020-06-19 11:56:15,263 : INFO : __main__ : Episode:    456, interaction_steps: 933888, reward: 30, epsilon: 0.112806
+2020-06-19 11:56:32,697 : INFO : __main__ : Episode:    457, interaction_steps: 935936, reward: 30, epsilon: 0.110861
+2020-06-19 11:56:50,148 : INFO : __main__ : Episode:    458, interaction_steps: 937984, reward: 32, epsilon: 0.108915
+2020-06-19 11:57:07,617 : INFO : __main__ : Episode:    459, interaction_steps: 940032, reward: 29, epsilon: 0.106970
+2020-06-19 11:57:25,158 : INFO : __main__ : Episode:    460, interaction_steps: 942080, reward: 32, epsilon: 0.105024
+2020-06-19 11:57:42,660 : INFO : __main__ : Episode:    461, interaction_steps: 944128, reward: 30, epsilon: 0.103078
+2020-06-19 11:58:52,757 : INFO : __main__ : Evaluation: True, episode:    461, interaction_steps: 944128, evaluate reward:  6
+2020-06-19 11:59:10,070 : INFO : __main__ : Episode:    462, interaction_steps: 946176, reward: 32, epsilon: 0.101133
+2020-06-19 11:59:27,207 : INFO : __main__ : Episode:    463, interaction_steps: 948224, reward: 29, epsilon: 0.099187
+2020-06-19 11:59:44,439 : INFO : __main__ : Episode:    464, interaction_steps: 950272, reward: 29, epsilon: 0.097242
+2020-06-19 12:00:01,853 : INFO : __main__ : Episode:    465, interaction_steps: 952320, reward: 29, epsilon: 0.095296
+2020-06-19 12:00:19,403 : INFO : __main__ : Episode:    466, interaction_steps: 954368, reward: 30, epsilon: 0.093350
+2020-06-19 12:00:37,103 : INFO : __main__ : Episode:    467, interaction_steps: 956416, reward: 31, epsilon: 0.091405
+2020-06-19 12:00:54,570 : INFO : __main__ : Episode:    468, interaction_steps: 958464, reward: 31, epsilon: 0.089459
+2020-06-19 12:01:12,010 : INFO : __main__ : Episode:    469, interaction_steps: 960512, reward: 30, epsilon: 0.087514
+2020-06-19 12:01:29,631 : INFO : __main__ : Episode:    470, interaction_steps: 962560, reward: 31, epsilon: 0.085568
+2020-06-19 12:01:47,171 : INFO : __main__ : Episode:    471, interaction_steps: 964608, reward: 32, epsilon: 0.083622
+2020-06-19 12:02:55,264 : INFO : __main__ : Evaluation: True, episode:    471, interaction_steps: 964608, evaluate reward:  6
+2020-06-19 12:03:12,473 : INFO : __main__ : Episode:    472, interaction_steps: 966656, reward: 32, epsilon: 0.081677
+2020-06-19 12:03:29,753 : INFO : __main__ : Episode:    473, interaction_steps: 968704, reward: 33, epsilon: 0.079731
+2020-06-19 12:03:47,183 : INFO : __main__ : Episode:    474, interaction_steps: 970752, reward: 31, epsilon: 0.077786
+2020-06-19 12:04:04,551 : INFO : __main__ : Episode:    475, interaction_steps: 972800, reward: 32, epsilon: 0.075840
+2020-06-19 12:04:21,846 : INFO : __main__ : Episode:    476, interaction_steps: 974848, reward: 32, epsilon: 0.073894
+2020-06-19 12:04:39,276 : INFO : __main__ : Episode:    477, interaction_steps: 976896, reward: 34, epsilon: 0.071949
+2020-06-19 12:04:56,766 : INFO : __main__ : Episode:    478, interaction_steps: 978944, reward: 32, epsilon: 0.070003
+2020-06-19 12:05:14,238 : INFO : __main__ : Episode:    479, interaction_steps: 980992, reward: 32, epsilon: 0.068058
+2020-06-19 12:05:31,828 : INFO : __main__ : Episode:    480, interaction_steps: 983040, reward: 32, epsilon: 0.066112
+2020-06-19 12:05:49,317 : INFO : __main__ : Episode:    481, interaction_steps: 985088, reward: 29, epsilon: 0.064166
+2020-06-19 12:06:57,329 : INFO : __main__ : Evaluation: True, episode:    481, interaction_steps: 985088, evaluate reward:  6
+2020-06-19 12:07:14,550 : INFO : __main__ : Episode:    482, interaction_steps: 987136, reward: 33, epsilon: 0.062221
+2020-06-19 12:07:31,719 : INFO : __main__ : Episode:    483, interaction_steps: 989184, reward: 30, epsilon: 0.060275
+2020-06-19 12:07:49,000 : INFO : __main__ : Episode:    484, interaction_steps: 991232, reward: 30, epsilon: 0.058330
+2020-06-19 12:08:06,346 : INFO : __main__ : Episode:    485, interaction_steps: 993280, reward: 31, epsilon: 0.056384
+2020-06-19 12:08:23,659 : INFO : __main__ : Episode:    486, interaction_steps: 995328, reward: 31, epsilon: 0.054438
+2020-06-19 12:08:40,987 : INFO : __main__ : Episode:    487, interaction_steps: 997376, reward: 31, epsilon: 0.052493
+2020-06-19 12:08:58,395 : INFO : __main__ : Episode:    488, interaction_steps: 999424, reward: 31, epsilon: 0.050547
+2020-06-19 12:09:15,673 : INFO : __main__ : Episode:    489, interaction_steps: 1001472, reward: 32, epsilon: 0.050000
+2020-06-19 12:09:33,009 : INFO : __main__ : Episode:    490, interaction_steps: 1003520, reward: 30, epsilon: 0.050000
+2020-06-19 12:09:50,311 : INFO : __main__ : Episode:    491, interaction_steps: 1005568, reward: 32, epsilon: 0.050000
+2020-06-19 12:10:57,767 : INFO : __main__ : Evaluation: True, episode:    491, interaction_steps: 1005568, evaluate reward:  6
+2020-06-19 12:11:14,881 : INFO : __main__ : Episode:    492, interaction_steps: 1007616, reward: 32, epsilon: 0.050000
+2020-06-19 12:11:31,913 : INFO : __main__ : Episode:    493, interaction_steps: 1009664, reward: 30, epsilon: 0.050000
+2020-06-19 12:11:49,078 : INFO : __main__ : Episode:    494, interaction_steps: 1011712, reward: 33, epsilon: 0.050000
+2020-06-19 12:12:06,463 : INFO : __main__ : Episode:    495, interaction_steps: 1013760, reward: 30, epsilon: 0.050000
+2020-06-19 12:12:23,918 : INFO : __main__ : Episode:    496, interaction_steps: 1015808, reward: 31, epsilon: 0.050000
+2020-06-19 12:12:41,350 : INFO : __main__ : Episode:    497, interaction_steps: 1017856, reward: 32, epsilon: 0.050000
+2020-06-19 12:12:58,686 : INFO : __main__ : Episode:    498, interaction_steps: 1019904, reward: 32, epsilon: 0.050000
+2020-06-19 12:13:16,067 : INFO : __main__ : Episode:    499, interaction_steps: 1021952, reward: 32, epsilon: 0.050000
+2020-06-19 12:13:33,503 : INFO : __main__ : Episode:    500, interaction_steps: 1024000, reward: 31, epsilon: 0.050000
+2020-06-19 12:13:51,066 : INFO : __main__ : Episode:    501, interaction_steps: 1026048, reward: 30, epsilon: 0.050000
+2020-06-19 12:13:51,090 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 12:15:00,483 : INFO : __main__ : Evaluation: True, episode:    501, interaction_steps: 1026048, evaluate reward:  6
+2020-06-19 12:15:18,164 : INFO : __main__ : Episode:    502, interaction_steps: 1028096, reward: 31, epsilon: 0.050000
+2020-06-19 12:15:35,825 : INFO : __main__ : Episode:    503, interaction_steps: 1030144, reward: 32, epsilon: 0.050000
+2020-06-19 12:15:53,668 : INFO : __main__ : Episode:    504, interaction_steps: 1032192, reward: 31, epsilon: 0.050000
+2020-06-19 12:16:11,273 : INFO : __main__ : Episode:    505, interaction_steps: 1034240, reward: 31, epsilon: 0.050000
+2020-06-19 12:16:28,763 : INFO : __main__ : Episode:    506, interaction_steps: 1036288, reward: 34, epsilon: 0.050000
+2020-06-19 12:16:46,316 : INFO : __main__ : Episode:    507, interaction_steps: 1038336, reward: 32, epsilon: 0.050000
+2020-06-19 12:17:03,916 : INFO : __main__ : Episode:    508, interaction_steps: 1040384, reward: 30, epsilon: 0.050000
+2020-06-19 12:17:21,554 : INFO : __main__ : Episode:    509, interaction_steps: 1042432, reward: 32, epsilon: 0.050000
+2020-06-19 12:17:39,206 : INFO : __main__ : Episode:    510, interaction_steps: 1044480, reward: 33, epsilon: 0.050000
+2020-06-19 12:17:56,941 : INFO : __main__ : Episode:    511, interaction_steps: 1046528, reward: 32, epsilon: 0.050000
+2020-06-19 12:19:06,833 : INFO : __main__ : Evaluation: True, episode:    511, interaction_steps: 1046528, evaluate reward:  6
+2020-06-19 12:19:24,401 : INFO : __main__ : Episode:    512, interaction_steps: 1048576, reward: 33, epsilon: 0.050000
+2020-06-19 12:19:41,839 : INFO : __main__ : Episode:    513, interaction_steps: 1050624, reward: 32, epsilon: 0.050000
+2020-06-19 12:19:59,336 : INFO : __main__ : Episode:    514, interaction_steps: 1052672, reward: 34, epsilon: 0.050000
+2020-06-19 12:20:16,945 : INFO : __main__ : Episode:    515, interaction_steps: 1054720, reward: 32, epsilon: 0.050000
+2020-06-19 12:20:34,509 : INFO : __main__ : Episode:    516, interaction_steps: 1056768, reward: 31, epsilon: 0.050000
+2020-06-19 12:20:52,186 : INFO : __main__ : Episode:    517, interaction_steps: 1058816, reward: 33, epsilon: 0.050000
+2020-06-19 12:21:09,740 : INFO : __main__ : Episode:    518, interaction_steps: 1060864, reward: 32, epsilon: 0.050000
+2020-06-19 12:21:27,345 : INFO : __main__ : Episode:    519, interaction_steps: 1062912, reward: 31, epsilon: 0.050000
+2020-06-19 12:21:45,049 : INFO : __main__ : Episode:    520, interaction_steps: 1064960, reward: 32, epsilon: 0.050000
+2020-06-19 12:22:02,738 : INFO : __main__ : Episode:    521, interaction_steps: 1067008, reward: 33, epsilon: 0.050000
+2020-06-19 12:23:12,520 : INFO : __main__ : Evaluation: True, episode:    521, interaction_steps: 1067008, evaluate reward:  6
+2020-06-19 12:23:29,959 : INFO : __main__ : Episode:    522, interaction_steps: 1069056, reward: 34, epsilon: 0.050000
+2020-06-19 12:23:47,379 : INFO : __main__ : Episode:    523, interaction_steps: 1071104, reward: 34, epsilon: 0.050000
+2020-06-19 12:24:04,875 : INFO : __main__ : Episode:    524, interaction_steps: 1073152, reward: 33, epsilon: 0.050000
+2020-06-19 12:24:22,601 : INFO : __main__ : Episode:    525, interaction_steps: 1075200, reward: 34, epsilon: 0.050000
+2020-06-19 12:24:40,151 : INFO : __main__ : Episode:    526, interaction_steps: 1077248, reward: 34, epsilon: 0.050000
+2020-06-19 12:24:57,629 : INFO : __main__ : Episode:    527, interaction_steps: 1079296, reward: 32, epsilon: 0.050000
+2020-06-19 12:25:15,134 : INFO : __main__ : Episode:    528, interaction_steps: 1081344, reward: 33, epsilon: 0.050000
+2020-06-19 12:25:32,697 : INFO : __main__ : Episode:    529, interaction_steps: 1083392, reward: 31, epsilon: 0.050000
+2020-06-19 12:25:50,151 : INFO : __main__ : Episode:    530, interaction_steps: 1085440, reward: 31, epsilon: 0.050000
+2020-06-19 12:26:07,679 : INFO : __main__ : Episode:    531, interaction_steps: 1087488, reward: 33, epsilon: 0.050000
+2020-06-19 12:27:15,697 : INFO : __main__ : Evaluation: True, episode:    531, interaction_steps: 1087488, evaluate reward:  6
+2020-06-19 12:27:33,142 : INFO : __main__ : Episode:    532, interaction_steps: 1089536, reward: 31, epsilon: 0.050000
+2020-06-19 12:27:50,681 : INFO : __main__ : Episode:    533, interaction_steps: 1091584, reward: 33, epsilon: 0.050000
+2020-06-19 12:28:08,213 : INFO : __main__ : Episode:    534, interaction_steps: 1093632, reward: 33, epsilon: 0.050000
+2020-06-19 12:28:25,634 : INFO : __main__ : Episode:    535, interaction_steps: 1095680, reward: 32, epsilon: 0.050000
+2020-06-19 12:28:42,997 : INFO : __main__ : Episode:    536, interaction_steps: 1097728, reward: 33, epsilon: 0.050000
+2020-06-19 12:29:00,379 : INFO : __main__ : Episode:    537, interaction_steps: 1099776, reward: 33, epsilon: 0.050000
+2020-06-19 12:29:17,799 : INFO : __main__ : Episode:    538, interaction_steps: 1101824, reward: 33, epsilon: 0.050000
+2020-06-19 12:29:35,423 : INFO : __main__ : Episode:    539, interaction_steps: 1103872, reward: 33, epsilon: 0.050000
+2020-06-19 12:29:52,791 : INFO : __main__ : Episode:    540, interaction_steps: 1105920, reward: 33, epsilon: 0.050000
+2020-06-19 12:30:10,158 : INFO : __main__ : Episode:    541, interaction_steps: 1107968, reward: 31, epsilon: 0.050000
+2020-06-19 12:31:17,752 : INFO : __main__ : Evaluation: True, episode:    541, interaction_steps: 1107968, evaluate reward:  6
+2020-06-19 12:31:35,120 : INFO : __main__ : Episode:    542, interaction_steps: 1110016, reward: 31, epsilon: 0.050000
+2020-06-19 12:31:52,605 : INFO : __main__ : Episode:    543, interaction_steps: 1112064, reward: 34, epsilon: 0.050000
+2020-06-19 12:32:10,183 : INFO : __main__ : Episode:    544, interaction_steps: 1114112, reward: 33, epsilon: 0.050000
+2020-06-19 12:32:27,647 : INFO : __main__ : Episode:    545, interaction_steps: 1116160, reward: 33, epsilon: 0.050000
+2020-06-19 12:32:45,048 : INFO : __main__ : Episode:    546, interaction_steps: 1118208, reward: 31, epsilon: 0.050000
+2020-06-19 12:33:02,450 : INFO : __main__ : Episode:    547, interaction_steps: 1120256, reward: 32, epsilon: 0.050000
+2020-06-19 12:33:19,901 : INFO : __main__ : Episode:    548, interaction_steps: 1122304, reward: 32, epsilon: 0.050000
+2020-06-19 12:33:37,417 : INFO : __main__ : Episode:    549, interaction_steps: 1124352, reward: 34, epsilon: 0.050000
+2020-06-19 12:33:54,817 : INFO : __main__ : Episode:    550, interaction_steps: 1126400, reward: 33, epsilon: 0.050000
+2020-06-19 12:34:12,242 : INFO : __main__ : Episode:    551, interaction_steps: 1128448, reward: 31, epsilon: 0.050000
+2020-06-19 12:34:12,264 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 12:35:19,965 : INFO : __main__ : Evaluation: True, episode:    551, interaction_steps: 1128448, evaluate reward:  6
+2020-06-19 12:35:37,275 : INFO : __main__ : Episode:    552, interaction_steps: 1130496, reward: 33, epsilon: 0.050000
+2020-06-19 12:35:54,467 : INFO : __main__ : Episode:    553, interaction_steps: 1132544, reward: 31, epsilon: 0.050000
+2020-06-19 12:36:11,829 : INFO : __main__ : Episode:    554, interaction_steps: 1134592, reward: 31, epsilon: 0.050000
+2020-06-19 12:36:29,129 : INFO : __main__ : Episode:    555, interaction_steps: 1136640, reward: 32, epsilon: 0.050000
+2020-06-19 12:36:46,471 : INFO : __main__ : Episode:    556, interaction_steps: 1138688, reward: 32, epsilon: 0.050000
+2020-06-19 12:37:03,794 : INFO : __main__ : Episode:    557, interaction_steps: 1140736, reward: 29, epsilon: 0.050000
+2020-06-19 12:37:21,132 : INFO : __main__ : Episode:    558, interaction_steps: 1142784, reward: 32, epsilon: 0.050000
+2020-06-19 12:37:38,559 : INFO : __main__ : Episode:    559, interaction_steps: 1144832, reward: 32, epsilon: 0.050000
+2020-06-19 12:37:55,936 : INFO : __main__ : Episode:    560, interaction_steps: 1146880, reward: 30, epsilon: 0.050000
+2020-06-19 12:38:13,341 : INFO : __main__ : Episode:    561, interaction_steps: 1148928, reward: 33, epsilon: 0.050000
+2020-06-19 12:39:21,014 : INFO : __main__ : Evaluation: True, episode:    561, interaction_steps: 1148928, evaluate reward:  6
+2020-06-19 12:39:38,133 : INFO : __main__ : Episode:    562, interaction_steps: 1150976, reward: 31, epsilon: 0.050000
+2020-06-19 12:39:55,459 : INFO : __main__ : Episode:    563, interaction_steps: 1153024, reward: 32, epsilon: 0.050000
+2020-06-19 12:40:12,690 : INFO : __main__ : Episode:    564, interaction_steps: 1155072, reward: 30, epsilon: 0.050000
+2020-06-19 12:40:29,992 : INFO : __main__ : Episode:    565, interaction_steps: 1157120, reward: 34, epsilon: 0.050000
+2020-06-19 12:40:47,286 : INFO : __main__ : Episode:    566, interaction_steps: 1159168, reward: 28, epsilon: 0.050000
+2020-06-19 12:41:04,651 : INFO : __main__ : Episode:    567, interaction_steps: 1161216, reward: 30, epsilon: 0.050000
+2020-06-19 12:41:22,023 : INFO : __main__ : Episode:    568, interaction_steps: 1163264, reward: 33, epsilon: 0.050000
+2020-06-19 12:41:39,453 : INFO : __main__ : Episode:    569, interaction_steps: 1165312, reward: 33, epsilon: 0.050000
+2020-06-19 12:41:56,809 : INFO : __main__ : Episode:    570, interaction_steps: 1167360, reward: 31, epsilon: 0.050000
+2020-06-19 12:42:14,205 : INFO : __main__ : Episode:    571, interaction_steps: 1169408, reward: 32, epsilon: 0.050000
+2020-06-19 12:43:22,225 : INFO : __main__ : Evaluation: True, episode:    571, interaction_steps: 1169408, evaluate reward:  6
+2020-06-19 12:43:39,637 : INFO : __main__ : Episode:    572, interaction_steps: 1171456, reward: 32, epsilon: 0.050000
+2020-06-19 12:43:57,086 : INFO : __main__ : Episode:    573, interaction_steps: 1173504, reward: 31, epsilon: 0.050000
+2020-06-19 12:44:14,673 : INFO : __main__ : Episode:    574, interaction_steps: 1175552, reward: 33, epsilon: 0.050000
+2020-06-19 12:44:32,152 : INFO : __main__ : Episode:    575, interaction_steps: 1177600, reward: 34, epsilon: 0.050000
+2020-06-19 12:44:49,586 : INFO : __main__ : Episode:    576, interaction_steps: 1179648, reward: 32, epsilon: 0.050000
+2020-06-19 12:45:07,265 : INFO : __main__ : Episode:    577, interaction_steps: 1181696, reward: 32, epsilon: 0.050000
+2020-06-19 12:45:24,747 : INFO : __main__ : Episode:    578, interaction_steps: 1183744, reward: 32, epsilon: 0.050000
+2020-06-19 12:45:42,348 : INFO : __main__ : Episode:    579, interaction_steps: 1185792, reward: 34, epsilon: 0.050000
+2020-06-19 12:45:59,874 : INFO : __main__ : Episode:    580, interaction_steps: 1187840, reward: 34, epsilon: 0.050000
+2020-06-19 12:46:17,467 : INFO : __main__ : Episode:    581, interaction_steps: 1189888, reward: 33, epsilon: 0.050000
+2020-06-19 12:47:25,764 : INFO : __main__ : Evaluation: True, episode:    581, interaction_steps: 1189888, evaluate reward:  6
+2020-06-19 12:47:42,916 : INFO : __main__ : Episode:    582, interaction_steps: 1191936, reward: 33, epsilon: 0.050000
+2020-06-19 12:48:00,049 : INFO : __main__ : Episode:    583, interaction_steps: 1193984, reward: 31, epsilon: 0.050000
+2020-06-19 12:48:17,289 : INFO : __main__ : Episode:    584, interaction_steps: 1196032, reward: 33, epsilon: 0.050000
+2020-06-19 12:48:34,555 : INFO : __main__ : Episode:    585, interaction_steps: 1198080, reward: 32, epsilon: 0.050000
+2020-06-19 12:48:51,815 : INFO : __main__ : Episode:    586, interaction_steps: 1200128, reward: 32, epsilon: 0.050000
+2020-06-19 12:49:09,085 : INFO : __main__ : Episode:    587, interaction_steps: 1202176, reward: 31, epsilon: 0.050000
+2020-06-19 12:49:26,383 : INFO : __main__ : Episode:    588, interaction_steps: 1204224, reward: 32, epsilon: 0.050000
+2020-06-19 12:49:43,708 : INFO : __main__ : Episode:    589, interaction_steps: 1206272, reward: 34, epsilon: 0.050000
+2020-06-19 12:50:00,975 : INFO : __main__ : Episode:    590, interaction_steps: 1208320, reward: 33, epsilon: 0.050000
+2020-06-19 12:50:18,474 : INFO : __main__ : Episode:    591, interaction_steps: 1210368, reward: 33, epsilon: 0.050000
+2020-06-19 12:51:25,709 : INFO : __main__ : Evaluation: True, episode:    591, interaction_steps: 1210368, evaluate reward:  6
+2020-06-19 12:51:42,828 : INFO : __main__ : Episode:    592, interaction_steps: 1212416, reward: 32, epsilon: 0.050000
+2020-06-19 12:51:59,967 : INFO : __main__ : Episode:    593, interaction_steps: 1214464, reward: 33, epsilon: 0.050000
+2020-06-19 12:52:17,187 : INFO : __main__ : Episode:    594, interaction_steps: 1216512, reward: 33, epsilon: 0.050000
+2020-06-19 12:52:34,430 : INFO : __main__ : Episode:    595, interaction_steps: 1218560, reward: 34, epsilon: 0.050000
+2020-06-19 12:52:51,702 : INFO : __main__ : Episode:    596, interaction_steps: 1220608, reward: 31, epsilon: 0.050000
+2020-06-19 12:53:09,004 : INFO : __main__ : Episode:    597, interaction_steps: 1222656, reward: 32, epsilon: 0.050000
+2020-06-19 12:53:26,322 : INFO : __main__ : Episode:    598, interaction_steps: 1224704, reward: 34, epsilon: 0.050000
+2020-06-19 12:53:43,733 : INFO : __main__ : Episode:    599, interaction_steps: 1226752, reward: 32, epsilon: 0.050000
+2020-06-19 12:54:01,096 : INFO : __main__ : Episode:    600, interaction_steps: 1228800, reward: 32, epsilon: 0.050000
+2020-06-19 12:54:18,411 : INFO : __main__ : Episode:    601, interaction_steps: 1230848, reward: 32, epsilon: 0.050000
+2020-06-19 12:54:18,432 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 12:55:26,008 : INFO : __main__ : Evaluation: True, episode:    601, interaction_steps: 1230848, evaluate reward:  6
+2020-06-19 12:55:43,340 : INFO : __main__ : Episode:    602, interaction_steps: 1232896, reward: 33, epsilon: 0.050000
+2020-06-19 12:56:00,743 : INFO : __main__ : Episode:    603, interaction_steps: 1234944, reward: 31, epsilon: 0.050000
+2020-06-19 12:56:18,327 : INFO : __main__ : Episode:    604, interaction_steps: 1236992, reward: 33, epsilon: 0.050000
+2020-06-19 12:56:35,804 : INFO : __main__ : Episode:    605, interaction_steps: 1239040, reward: 33, epsilon: 0.050000
+2020-06-19 12:56:53,151 : INFO : __main__ : Episode:    606, interaction_steps: 1241088, reward: 33, epsilon: 0.050000
+2020-06-19 12:57:10,504 : INFO : __main__ : Episode:    607, interaction_steps: 1243136, reward: 31, epsilon: 0.050000
+2020-06-19 12:57:27,919 : INFO : __main__ : Episode:    608, interaction_steps: 1245184, reward: 33, epsilon: 0.050000
+2020-06-19 12:57:45,384 : INFO : __main__ : Episode:    609, interaction_steps: 1247232, reward: 33, epsilon: 0.050000
+2020-06-19 12:58:02,828 : INFO : __main__ : Episode:    610, interaction_steps: 1249280, reward: 33, epsilon: 0.050000
+2020-06-19 12:58:20,268 : INFO : __main__ : Episode:    611, interaction_steps: 1251328, reward: 31, epsilon: 0.050000
+2020-06-19 12:59:27,615 : INFO : __main__ : Evaluation: True, episode:    611, interaction_steps: 1251328, evaluate reward:  6
+2020-06-19 12:59:45,088 : INFO : __main__ : Episode:    612, interaction_steps: 1253376, reward: 31, epsilon: 0.050000
+2020-06-19 13:00:02,616 : INFO : __main__ : Episode:    613, interaction_steps: 1255424, reward: 33, epsilon: 0.050000
+2020-06-19 13:00:20,245 : INFO : __main__ : Episode:    614, interaction_steps: 1257472, reward: 34, epsilon: 0.050000
+2020-06-19 13:00:37,916 : INFO : __main__ : Episode:    615, interaction_steps: 1259520, reward: 33, epsilon: 0.050000
+2020-06-19 13:00:55,357 : INFO : __main__ : Episode:    616, interaction_steps: 1261568, reward: 32, epsilon: 0.050000
+2020-06-19 13:01:12,812 : INFO : __main__ : Episode:    617, interaction_steps: 1263616, reward: 32, epsilon: 0.050000
+2020-06-19 13:01:30,358 : INFO : __main__ : Episode:    618, interaction_steps: 1265664, reward: 32, epsilon: 0.050000
+2020-06-19 13:01:47,935 : INFO : __main__ : Episode:    619, interaction_steps: 1267712, reward: 34, epsilon: 0.050000
+2020-06-19 13:02:05,429 : INFO : __main__ : Episode:    620, interaction_steps: 1269760, reward: 32, epsilon: 0.050000
+2020-06-19 13:02:22,920 : INFO : __main__ : Episode:    621, interaction_steps: 1271808, reward: 32, epsilon: 0.050000
+2020-06-19 13:03:30,838 : INFO : __main__ : Evaluation: True, episode:    621, interaction_steps: 1271808, evaluate reward:  6
+2020-06-19 13:03:48,071 : INFO : __main__ : Episode:    622, interaction_steps: 1273856, reward: 32, epsilon: 0.050000
+2020-06-19 13:04:05,256 : INFO : __main__ : Episode:    623, interaction_steps: 1275904, reward: 31, epsilon: 0.050000
+2020-06-19 13:04:22,540 : INFO : __main__ : Episode:    624, interaction_steps: 1277952, reward: 32, epsilon: 0.050000
+2020-06-19 13:04:39,835 : INFO : __main__ : Episode:    625, interaction_steps: 1280000, reward: 32, epsilon: 0.050000
+2020-06-19 13:04:57,153 : INFO : __main__ : Episode:    626, interaction_steps: 1282048, reward: 33, epsilon: 0.050000
+2020-06-19 13:05:14,467 : INFO : __main__ : Episode:    627, interaction_steps: 1284096, reward: 31, epsilon: 0.050000
+2020-06-19 13:05:31,814 : INFO : __main__ : Episode:    628, interaction_steps: 1286144, reward: 29, epsilon: 0.050000
+2020-06-19 13:05:49,391 : INFO : __main__ : Episode:    629, interaction_steps: 1288192, reward: 33, epsilon: 0.050000
+2020-06-19 13:06:06,836 : INFO : __main__ : Episode:    630, interaction_steps: 1290240, reward: 32, epsilon: 0.050000
+2020-06-19 13:06:24,234 : INFO : __main__ : Episode:    631, interaction_steps: 1292288, reward: 32, epsilon: 0.050000
+2020-06-19 13:07:32,488 : INFO : __main__ : Evaluation: True, episode:    631, interaction_steps: 1292288, evaluate reward:  5
+2020-06-19 13:07:49,711 : INFO : __main__ : Episode:    632, interaction_steps: 1294336, reward: 30, epsilon: 0.050000
+2020-06-19 13:08:06,913 : INFO : __main__ : Episode:    633, interaction_steps: 1296384, reward: 29, epsilon: 0.050000
+2020-06-19 13:08:24,170 : INFO : __main__ : Episode:    634, interaction_steps: 1298432, reward: 31, epsilon: 0.050000
+2020-06-19 13:08:41,449 : INFO : __main__ : Episode:    635, interaction_steps: 1300480, reward: 33, epsilon: 0.050000
+2020-06-19 13:08:58,652 : INFO : __main__ : Episode:    636, interaction_steps: 1302528, reward: 33, epsilon: 0.050000
+2020-06-19 13:09:16,012 : INFO : __main__ : Episode:    637, interaction_steps: 1304576, reward: 33, epsilon: 0.050000
+2020-06-19 13:09:33,501 : INFO : __main__ : Episode:    638, interaction_steps: 1306624, reward: 33, epsilon: 0.050000
+2020-06-19 13:09:51,110 : INFO : __main__ : Episode:    639, interaction_steps: 1308672, reward: 33, epsilon: 0.050000
+2020-06-19 13:10:08,491 : INFO : __main__ : Episode:    640, interaction_steps: 1310720, reward: 33, epsilon: 0.050000
+2020-06-19 13:10:25,856 : INFO : __main__ : Episode:    641, interaction_steps: 1312768, reward: 31, epsilon: 0.050000
+2020-06-19 13:11:33,415 : INFO : __main__ : Evaluation: True, episode:    641, interaction_steps: 1312768, evaluate reward:  6
+2020-06-19 13:11:50,956 : INFO : __main__ : Episode:    642, interaction_steps: 1314816, reward: 33, epsilon: 0.050000
+2020-06-19 13:12:08,497 : INFO : __main__ : Episode:    643, interaction_steps: 1316864, reward: 32, epsilon: 0.050000
+2020-06-19 13:12:26,161 : INFO : __main__ : Episode:    644, interaction_steps: 1318912, reward: 32, epsilon: 0.050000
+2020-06-19 13:12:43,678 : INFO : __main__ : Episode:    645, interaction_steps: 1320960, reward: 30, epsilon: 0.050000
+2020-06-19 13:13:01,144 : INFO : __main__ : Episode:    646, interaction_steps: 1323008, reward: 31, epsilon: 0.050000
+2020-06-19 13:13:18,581 : INFO : __main__ : Episode:    647, interaction_steps: 1325056, reward: 32, epsilon: 0.050000
+2020-06-19 13:13:36,120 : INFO : __main__ : Episode:    648, interaction_steps: 1327104, reward: 31, epsilon: 0.050000
+2020-06-19 13:13:53,719 : INFO : __main__ : Episode:    649, interaction_steps: 1329152, reward: 33, epsilon: 0.050000
+2020-06-19 13:14:11,216 : INFO : __main__ : Episode:    650, interaction_steps: 1331200, reward: 32, epsilon: 0.050000
+2020-06-19 13:14:28,733 : INFO : __main__ : Episode:    651, interaction_steps: 1333248, reward: 33, epsilon: 0.050000
+2020-06-19 13:14:28,756 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 13:15:36,747 : INFO : __main__ : Evaluation: True, episode:    651, interaction_steps: 1333248, evaluate reward:  6
+2020-06-19 13:15:53,985 : INFO : __main__ : Episode:    652, interaction_steps: 1335296, reward: 34, epsilon: 0.050000
+2020-06-19 13:16:11,449 : INFO : __main__ : Episode:    653, interaction_steps: 1337344, reward: 33, epsilon: 0.050000
+2020-06-19 13:16:28,788 : INFO : __main__ : Episode:    654, interaction_steps: 1339392, reward: 34, epsilon: 0.050000
+2020-06-19 13:16:46,391 : INFO : __main__ : Episode:    655, interaction_steps: 1341440, reward: 31, epsilon: 0.050000
+2020-06-19 13:17:04,030 : INFO : __main__ : Episode:    656, interaction_steps: 1343488, reward: 30, epsilon: 0.050000
+2020-06-19 13:17:21,598 : INFO : __main__ : Episode:    657, interaction_steps: 1345536, reward: 30, epsilon: 0.050000
+2020-06-19 13:17:39,228 : INFO : __main__ : Episode:    658, interaction_steps: 1347584, reward: 33, epsilon: 0.050000
+2020-06-19 13:17:56,961 : INFO : __main__ : Episode:    659, interaction_steps: 1349632, reward: 33, epsilon: 0.050000
+2020-06-19 13:18:14,701 : INFO : __main__ : Episode:    660, interaction_steps: 1351680, reward: 32, epsilon: 0.050000
+2020-06-19 13:18:32,387 : INFO : __main__ : Episode:    661, interaction_steps: 1353728, reward: 31, epsilon: 0.050000
+2020-06-19 13:19:42,317 : INFO : __main__ : Evaluation: True, episode:    661, interaction_steps: 1353728, evaluate reward:  6
+2020-06-19 13:19:59,882 : INFO : __main__ : Episode:    662, interaction_steps: 1355776, reward: 33, epsilon: 0.050000
+2020-06-19 13:20:17,433 : INFO : __main__ : Episode:    663, interaction_steps: 1357824, reward: 32, epsilon: 0.050000
+2020-06-19 13:20:35,078 : INFO : __main__ : Episode:    664, interaction_steps: 1359872, reward: 32, epsilon: 0.050000
+2020-06-19 13:20:52,766 : INFO : __main__ : Episode:    665, interaction_steps: 1361920, reward: 31, epsilon: 0.050000
+2020-06-19 13:21:10,511 : INFO : __main__ : Episode:    666, interaction_steps: 1363968, reward: 34, epsilon: 0.050000
+2020-06-19 13:21:28,370 : INFO : __main__ : Episode:    667, interaction_steps: 1366016, reward: 32, epsilon: 0.050000
+2020-06-19 13:21:46,157 : INFO : __main__ : Episode:    668, interaction_steps: 1368064, reward: 31, epsilon: 0.050000
+2020-06-19 13:22:03,869 : INFO : __main__ : Episode:    669, interaction_steps: 1370112, reward: 31, epsilon: 0.050000
+2020-06-19 13:22:21,535 : INFO : __main__ : Episode:    670, interaction_steps: 1372160, reward: 33, epsilon: 0.050000
+2020-06-19 13:22:39,270 : INFO : __main__ : Episode:    671, interaction_steps: 1374208, reward: 31, epsilon: 0.050000
+2020-06-19 13:23:48,357 : INFO : __main__ : Evaluation: True, episode:    671, interaction_steps: 1374208, evaluate reward:  6
+2020-06-19 13:24:06,062 : INFO : __main__ : Episode:    672, interaction_steps: 1376256, reward: 31, epsilon: 0.050000
+2020-06-19 13:24:23,840 : INFO : __main__ : Episode:    673, interaction_steps: 1378304, reward: 32, epsilon: 0.050000
+2020-06-19 13:24:41,735 : INFO : __main__ : Episode:    674, interaction_steps: 1380352, reward: 32, epsilon: 0.050000
+2020-06-19 13:24:59,502 : INFO : __main__ : Episode:    675, interaction_steps: 1382400, reward: 32, epsilon: 0.050000
+2020-06-19 13:25:17,152 : INFO : __main__ : Episode:    676, interaction_steps: 1384448, reward: 33, epsilon: 0.050000
+2020-06-19 13:25:34,841 : INFO : __main__ : Episode:    677, interaction_steps: 1386496, reward: 32, epsilon: 0.050000
+2020-06-19 13:25:52,627 : INFO : __main__ : Episode:    678, interaction_steps: 1388544, reward: 32, epsilon: 0.050000
+2020-06-19 13:26:10,365 : INFO : __main__ : Episode:    679, interaction_steps: 1390592, reward: 32, epsilon: 0.050000
+2020-06-19 13:26:28,130 : INFO : __main__ : Episode:    680, interaction_steps: 1392640, reward: 33, epsilon: 0.050000
+2020-06-19 13:26:45,803 : INFO : __main__ : Episode:    681, interaction_steps: 1394688, reward: 32, epsilon: 0.050000
+2020-06-19 13:27:55,041 : INFO : __main__ : Evaluation: True, episode:    681, interaction_steps: 1394688, evaluate reward:  6
+2020-06-19 13:28:12,438 : INFO : __main__ : Episode:    682, interaction_steps: 1396736, reward: 32, epsilon: 0.050000
+2020-06-19 13:28:29,819 : INFO : __main__ : Episode:    683, interaction_steps: 1398784, reward: 32, epsilon: 0.050000
+2020-06-19 13:28:47,324 : INFO : __main__ : Episode:    684, interaction_steps: 1400832, reward: 32, epsilon: 0.050000
+2020-06-19 13:29:04,838 : INFO : __main__ : Episode:    685, interaction_steps: 1402880, reward: 34, epsilon: 0.050000
+2020-06-19 13:29:22,319 : INFO : __main__ : Episode:    686, interaction_steps: 1404928, reward: 33, epsilon: 0.050000
+2020-06-19 13:29:39,829 : INFO : __main__ : Episode:    687, interaction_steps: 1406976, reward: 32, epsilon: 0.050000
+2020-06-19 13:29:57,393 : INFO : __main__ : Episode:    688, interaction_steps: 1409024, reward: 32, epsilon: 0.050000
+2020-06-19 13:30:14,914 : INFO : __main__ : Episode:    689, interaction_steps: 1411072, reward: 32, epsilon: 0.050000
+2020-06-19 13:30:32,432 : INFO : __main__ : Episode:    690, interaction_steps: 1413120, reward: 34, epsilon: 0.050000
+2020-06-19 13:30:50,017 : INFO : __main__ : Episode:    691, interaction_steps: 1415168, reward: 34, epsilon: 0.050000
+2020-06-19 13:31:59,861 : INFO : __main__ : Evaluation: True, episode:    691, interaction_steps: 1415168, evaluate reward:  6
+2020-06-19 13:32:17,232 : INFO : __main__ : Episode:    692, interaction_steps: 1417216, reward: 33, epsilon: 0.050000
+2020-06-19 13:32:34,539 : INFO : __main__ : Episode:    693, interaction_steps: 1419264, reward: 32, epsilon: 0.050000
+2020-06-19 13:32:51,926 : INFO : __main__ : Episode:    694, interaction_steps: 1421312, reward: 31, epsilon: 0.050000
+2020-06-19 13:33:09,373 : INFO : __main__ : Episode:    695, interaction_steps: 1423360, reward: 31, epsilon: 0.050000
+2020-06-19 13:33:26,807 : INFO : __main__ : Episode:    696, interaction_steps: 1425408, reward: 33, epsilon: 0.050000
+2020-06-19 13:33:44,270 : INFO : __main__ : Episode:    697, interaction_steps: 1427456, reward: 30, epsilon: 0.050000
+2020-06-19 13:34:01,870 : INFO : __main__ : Episode:    698, interaction_steps: 1429504, reward: 34, epsilon: 0.050000
+2020-06-19 13:34:19,350 : INFO : __main__ : Episode:    699, interaction_steps: 1431552, reward: 32, epsilon: 0.050000
+2020-06-19 13:34:36,761 : INFO : __main__ : Episode:    700, interaction_steps: 1433600, reward: 34, epsilon: 0.050000
+2020-06-19 13:34:54,283 : INFO : __main__ : Episode:    701, interaction_steps: 1435648, reward: 30, epsilon: 0.050000
+2020-06-19 13:34:54,304 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 13:36:03,003 : INFO : __main__ : Evaluation: True, episode:    701, interaction_steps: 1435648, evaluate reward:  5
+2020-06-19 13:36:20,540 : INFO : __main__ : Episode:    702, interaction_steps: 1437696, reward: 32, epsilon: 0.050000
+2020-06-19 13:36:38,003 : INFO : __main__ : Episode:    703, interaction_steps: 1439744, reward: 30, epsilon: 0.050000
+2020-06-19 13:36:55,596 : INFO : __main__ : Episode:    704, interaction_steps: 1441792, reward: 31, epsilon: 0.050000
+2020-06-19 13:37:13,137 : INFO : __main__ : Episode:    705, interaction_steps: 1443840, reward: 31, epsilon: 0.050000
+2020-06-19 13:37:30,640 : INFO : __main__ : Episode:    706, interaction_steps: 1445888, reward: 32, epsilon: 0.050000
+2020-06-19 13:37:48,220 : INFO : __main__ : Episode:    707, interaction_steps: 1447936, reward: 30, epsilon: 0.050000
+2020-06-19 13:38:05,785 : INFO : __main__ : Episode:    708, interaction_steps: 1449984, reward: 31, epsilon: 0.050000
+2020-06-19 13:38:23,269 : INFO : __main__ : Episode:    709, interaction_steps: 1452032, reward: 34, epsilon: 0.050000
+2020-06-19 13:38:40,739 : INFO : __main__ : Episode:    710, interaction_steps: 1454080, reward: 31, epsilon: 0.050000
+2020-06-19 13:38:58,188 : INFO : __main__ : Episode:    711, interaction_steps: 1456128, reward: 33, epsilon: 0.050000
+2020-06-19 13:40:06,226 : INFO : __main__ : Evaluation: True, episode:    711, interaction_steps: 1456128, evaluate reward:  6
+2020-06-19 13:40:23,455 : INFO : __main__ : Episode:    712, interaction_steps: 1458176, reward: 32, epsilon: 0.050000
+2020-06-19 13:40:40,656 : INFO : __main__ : Episode:    713, interaction_steps: 1460224, reward: 33, epsilon: 0.050000
+2020-06-19 13:40:57,870 : INFO : __main__ : Episode:    714, interaction_steps: 1462272, reward: 32, epsilon: 0.050000
+2020-06-19 13:41:15,147 : INFO : __main__ : Episode:    715, interaction_steps: 1464320, reward: 31, epsilon: 0.050000
+2020-06-19 13:41:32,406 : INFO : __main__ : Episode:    716, interaction_steps: 1466368, reward: 33, epsilon: 0.050000
+2020-06-19 13:41:49,716 : INFO : __main__ : Episode:    717, interaction_steps: 1468416, reward: 32, epsilon: 0.050000
+2020-06-19 13:42:07,275 : INFO : __main__ : Episode:    718, interaction_steps: 1470464, reward: 32, epsilon: 0.050000
+2020-06-19 13:42:24,725 : INFO : __main__ : Episode:    719, interaction_steps: 1472512, reward: 32, epsilon: 0.050000
+2020-06-19 13:42:42,131 : INFO : __main__ : Episode:    720, interaction_steps: 1474560, reward: 33, epsilon: 0.050000
+2020-06-19 13:42:59,523 : INFO : __main__ : Episode:    721, interaction_steps: 1476608, reward: 32, epsilon: 0.050000
+2020-06-19 13:44:07,424 : INFO : __main__ : Evaluation: True, episode:    721, interaction_steps: 1476608, evaluate reward:  6
+2020-06-19 13:44:24,621 : INFO : __main__ : Episode:    722, interaction_steps: 1478656, reward: 32, epsilon: 0.050000
+2020-06-19 13:44:41,828 : INFO : __main__ : Episode:    723, interaction_steps: 1480704, reward: 34, epsilon: 0.050000
+2020-06-19 13:44:59,064 : INFO : __main__ : Episode:    724, interaction_steps: 1482752, reward: 33, epsilon: 0.050000
+2020-06-19 13:45:16,353 : INFO : __main__ : Episode:    725, interaction_steps: 1484800, reward: 33, epsilon: 0.050000
+2020-06-19 13:45:33,642 : INFO : __main__ : Episode:    726, interaction_steps: 1486848, reward: 32, epsilon: 0.050000
+2020-06-19 13:45:50,995 : INFO : __main__ : Episode:    727, interaction_steps: 1488896, reward: 33, epsilon: 0.050000
+2020-06-19 13:46:08,362 : INFO : __main__ : Episode:    728, interaction_steps: 1490944, reward: 33, epsilon: 0.050000
+2020-06-19 13:46:25,755 : INFO : __main__ : Episode:    729, interaction_steps: 1492992, reward: 31, epsilon: 0.050000
+2020-06-19 13:46:43,246 : INFO : __main__ : Episode:    730, interaction_steps: 1495040, reward: 32, epsilon: 0.050000
+2020-06-19 13:47:00,762 : INFO : __main__ : Episode:    731, interaction_steps: 1497088, reward: 33, epsilon: 0.050000
+2020-06-19 13:48:09,151 : INFO : __main__ : Evaluation: True, episode:    731, interaction_steps: 1497088, evaluate reward:  6
+2020-06-19 13:48:26,659 : INFO : __main__ : Episode:    732, interaction_steps: 1499136, reward: 32, epsilon: 0.050000
+2020-06-19 13:48:44,286 : INFO : __main__ : Episode:    733, interaction_steps: 1501184, reward: 31, epsilon: 0.050000
+2020-06-19 13:49:01,906 : INFO : __main__ : Episode:    734, interaction_steps: 1503232, reward: 32, epsilon: 0.050000
+2020-06-19 13:49:19,443 : INFO : __main__ : Episode:    735, interaction_steps: 1505280, reward: 32, epsilon: 0.050000
+2020-06-19 13:49:36,957 : INFO : __main__ : Episode:    736, interaction_steps: 1507328, reward: 31, epsilon: 0.050000
+2020-06-19 13:49:54,492 : INFO : __main__ : Episode:    737, interaction_steps: 1509376, reward: 31, epsilon: 0.050000
+2020-06-19 13:50:12,129 : INFO : __main__ : Episode:    738, interaction_steps: 1511424, reward: 32, epsilon: 0.050000
+2020-06-19 13:50:29,697 : INFO : __main__ : Episode:    739, interaction_steps: 1513472, reward: 33, epsilon: 0.050000
+2020-06-19 13:50:47,242 : INFO : __main__ : Episode:    740, interaction_steps: 1515520, reward: 33, epsilon: 0.050000
+2020-06-19 13:51:04,794 : INFO : __main__ : Episode:    741, interaction_steps: 1517568, reward: 33, epsilon: 0.050000
+2020-06-19 13:52:14,194 : INFO : __main__ : Evaluation: True, episode:    741, interaction_steps: 1517568, evaluate reward:  5
+2020-06-19 13:52:31,767 : INFO : __main__ : Episode:    742, interaction_steps: 1519616, reward: 32, epsilon: 0.050000
+2020-06-19 13:52:49,133 : INFO : __main__ : Episode:    743, interaction_steps: 1521664, reward: 30, epsilon: 0.050000
+2020-06-19 13:53:06,526 : INFO : __main__ : Episode:    744, interaction_steps: 1523712, reward: 34, epsilon: 0.050000
+2020-06-19 13:53:23,950 : INFO : __main__ : Episode:    745, interaction_steps: 1525760, reward: 33, epsilon: 0.050000
+2020-06-19 13:53:41,378 : INFO : __main__ : Episode:    746, interaction_steps: 1527808, reward: 31, epsilon: 0.050000
+2020-06-19 13:53:58,853 : INFO : __main__ : Episode:    747, interaction_steps: 1529856, reward: 32, epsilon: 0.050000
+2020-06-19 13:54:16,327 : INFO : __main__ : Episode:    748, interaction_steps: 1531904, reward: 33, epsilon: 0.050000
+2020-06-19 13:54:33,779 : INFO : __main__ : Episode:    749, interaction_steps: 1533952, reward: 31, epsilon: 0.050000
+2020-06-19 13:54:51,302 : INFO : __main__ : Episode:    750, interaction_steps: 1536000, reward: 33, epsilon: 0.050000
+2020-06-19 13:55:08,833 : INFO : __main__ : Episode:    751, interaction_steps: 1538048, reward: 32, epsilon: 0.050000
+2020-06-19 13:55:08,855 : INFO : __main__ : [Info] Save model at './model' !
+2020-06-19 13:56:18,196 : INFO : __main__ : Evaluation: True, episode:    751, interaction_steps: 1538048, evaluate reward:  5
+2020-06-19 13:56:35,511 : INFO : __main__ : Episode:    752, interaction_steps: 1540096, reward: 32, epsilon: 0.050000
+2020-06-19 13:56:52,869 : INFO : __main__ : Episode:    753, interaction_steps: 1542144, reward: 31, epsilon: 0.050000
+2020-06-19 13:57:10,222 : INFO : __main__ : Episode:    754, interaction_steps: 1544192, reward: 32, epsilon: 0.050000
+2020-06-19 13:57:27,765 : INFO : __main__ : Episode:    755, interaction_steps: 1546240, reward: 34, epsilon: 0.050000
+2020-06-19 13:57:45,350 : INFO : __main__ : Episode:    756, interaction_steps: 1548288, reward: 33, epsilon: 0.050000
+2020-06-19 13:58:02,859 : INFO : __main__ : Episode:    757, interaction_steps: 1550336, reward: 34, epsilon: 0.050000
+2020-06-19 13:58:20,350 : INFO : __main__ : Episode:    758, interaction_steps: 1552384, reward: 31, epsilon: 0.050000
+2020-06-19 13:58:37,762 : INFO : __main__ : Episode:    759, interaction_steps: 1554432, reward: 31, epsilon: 0.050000
+2020-06-19 13:58:55,299 : INFO : __main__ : Episode:    760, interaction_steps: 1556480, reward: 32, epsilon: 0.050000
+2020-06-19 13:59:12,875 : INFO : __main__ : Episode:    761, interaction_steps: 1558528, reward: 32, epsilon: 0.050000
+2020-06-19 14:00:20,647 : INFO : __main__ : Evaluation: True, episode:    761, interaction_steps: 1558528, evaluate reward:  6
+2020-06-19 14:00:38,074 : INFO : __main__ : Episode:    762, interaction_steps: 1560576, reward: 32, epsilon: 0.050000
+2020-06-19 14:00:55,778 : INFO : __main__ : Episode:    763, interaction_steps: 1562624, reward: 32, epsilon: 0.050000
+2020-06-19 14:01:13,476 : INFO : __main__ : Episode:    764, interaction_steps: 1564672, reward: 33, epsilon: 0.050000
+2020-06-19 14:01:31,027 : INFO : __main__ : Episode:    765, interaction_steps: 1566720, reward: 33, epsilon: 0.050000
+2020-06-19 14:01:48,544 : INFO : __main__ : Episode:    766, interaction_steps: 1568768, reward: 33, epsilon: 0.050000
+2020-06-19 14:02:06,147 : INFO : __main__ : Episode:    767, interaction_steps: 1570816, reward: 32, epsilon: 0.050000
+2020-06-19 14:02:23,810 : INFO : __main__ : Episode:    768, interaction_steps: 1572864, reward: 33, epsilon: 0.050000
+2020-06-19 14:02:41,629 : INFO : __main__ : Episode:    769, interaction_steps: 1574912, reward: 30, epsilon: 0.050000
+2020-06-19 14:02:59,266 : INFO : __main__ : Episode:    770, interaction_steps: 1576960, reward: 32, epsilon: 0.050000
+2020-06-19 14:03:16,891 : INFO : __main__ : Episode:    771, interaction_steps: 1579008, reward: 31, epsilon: 0.050000
+2020-06-19 14:04:26,171 : INFO : __main__ : Evaluation: True, episode:    771, interaction_steps: 1579008, evaluate reward:  6
+2020-06-19 14:04:43,558 : INFO : __main__ : Episode:    772, interaction_steps: 1581056, reward: 34, epsilon: 0.050000
+2020-06-19 14:05:00,953 : INFO : __main__ : Episode:    773, interaction_steps: 1583104, reward: 32, epsilon: 0.050000
+2020-06-19 14:05:18,419 : INFO : __main__ : Episode:    774, interaction_steps: 1585152, reward: 33, epsilon: 0.050000
+2020-06-19 14:05:35,922 : INFO : __main__ : Episode:    775, interaction_steps: 1587200, reward: 34, epsilon: 0.050000
+2020-06-19 14:05:53,421 : INFO : __main__ : Episode:    776, interaction_steps: 1589248, reward: 32, epsilon: 0.050000
+2020-06-19 14:06:10,951 : INFO : __main__ : Episode:    777, interaction_steps: 1591296, reward: 33, epsilon: 0.050000
+2020-06-19 14:06:28,485 : INFO : __main__ : Episode:    778, interaction_steps: 1593344, reward: 32, epsilon: 0.050000
+2020-06-19 14:06:46,060 : INFO : __main__ : Episode:    779, interaction_steps: 1595392, reward: 33, epsilon: 0.050000
+2020-06-19 14:07:03,682 : INFO : __main__ : Episode:    780, interaction_steps: 1597440, reward: 33, epsilon: 0.050000
+2020-06-19 14:07:21,332 : INFO : __main__ : Episode:    781, interaction_steps: 1599488, reward: 33, epsilon: 0.050000
+2020-06-19 14:08:31,937 : INFO : __main__ : Evaluation: True, episode:    781, interaction_steps: 1599488, evaluate reward:  5
+2020-06-19 14:08:49,385 : INFO : __main__ : Episode:    782, interaction_steps: 1601536, reward: 33, epsilon: 0.050000
+2020-06-19 14:09:06,804 : INFO : __main__ : Episode:    783, interaction_steps: 1603584, reward: 33, epsilon: 0.050000
+2020-06-19 14:09:24,253 : INFO : __main__ : Episode:    784, interaction_steps: 1605632, reward: 32, epsilon: 0.050000
+2020-06-19 14:09:41,725 : INFO : __main__ : Episode:    785, interaction_steps: 1607680, reward: 31, epsilon: 0.050000
+2020-06-19 14:09:59,216 : INFO : __main__ : Episode:    786, interaction_steps: 1609728, reward: 30, epsilon: 0.050000
+2020-06-19 14:10:16,843 : INFO : __main__ : Episode:    787, interaction_steps: 1611776, reward: 33, epsilon: 0.050000
+2020-06-19 14:10:34,431 : INFO : __main__ : Episode:    788, interaction_steps: 1613824, reward: 32, epsilon: 0.050000
+2020-06-19 14:10:52,047 : INFO : __main__ : Episode:    789, interaction_steps: 1615872, reward: 34, epsilon: 0.050000
+2020-06-19 14:11:09,652 : INFO : __main__ : Episode:    790, interaction_steps: 1617920, reward: 32, epsilon: 0.050000
+2020-06-19 14:11:27,327 : INFO : __main__ : Episode:    791, interaction_steps: 1619968, reward: 31, epsilon: 0.050000
+2020-06-19 14:12:36,771 : INFO : __main__ : Evaluation: True, episode:    791, interaction_steps: 1619968, evaluate reward:  6
+2020-06-19 14:12:54,440 : INFO : __main__ : Episode:    792, interaction_steps: 1622016, reward: 33, epsilon: 0.050000
+2020-06-19 14:13:12,161 : INFO : __main__ : Episode:    793, interaction_steps: 1624064, reward: 33, epsilon: 0.050000
+2020-06-19 14:13:29,666 : INFO : __main__ : Episode:    794, interaction_steps: 1626112, reward: 32, epsilon: 0.050000
+2020-06-19 14:13:47,154 : INFO : __main__ : Episode:    795, interaction_steps: 1628160, reward: 32, epsilon: 0.050000
+2020-06-19 14:14:04,649 : INFO : __main__ : Episode:    796, interaction_steps: 1630208, reward: 34, epsilon: 0.050000
+2020-06-19 14:14:22,312 : INFO : __main__ : Episode:    797, interaction_steps: 1632256, reward: 32, epsilon: 0.050000
+2020-06-19 14:14:39,874 : INFO : __main__ : Episode:    798, interaction_steps: 1634304, reward: 32, epsilon: 0.050000
+2020-06-19 14:14:57,431 : INFO : __main__ : Episode:    799, interaction_steps: 1636352, reward: 34, epsilon: 0.050000
+2020-06-19 14:15:15,029 : INFO : __main__ : Episode:    800, interaction_steps: 1638400, reward: 31, epsilon: 0.050000
